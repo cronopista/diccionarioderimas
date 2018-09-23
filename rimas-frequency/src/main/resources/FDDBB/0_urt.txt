@@ -1,0 +1,10 @@
+urticación	urticación	O
+urticaciones	urticación	P
+urticante	urticante	O
+urticantes	urticante	P
+urticaria	urticaria	O
+urticarias	urticaria	P
+urticáceo	urticáceo	O
+urticáceas	urticáceo	FP
+urticácea	urticáceo	F
+urticáceos	urticáceo	P

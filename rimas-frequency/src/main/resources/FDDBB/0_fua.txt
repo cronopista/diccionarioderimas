@@ -1,0 +1,7 @@
+fuácata	fuácata	O
+fuácatas	fuácata	P
+fua	fuir	VSP1
+fuas	fuir	VSP2
+fuamos	fuir	VSP4
+fuáis	fuir	VSP5
+fuan	fuir	VSP6

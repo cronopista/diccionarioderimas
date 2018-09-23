@@ -1,0 +1,4 @@
+afgano	afgano	O
+afganas	afgano	FP
+afgana	afgano	F
+afganos	afgano	P

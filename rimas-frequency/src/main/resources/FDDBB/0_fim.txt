@@ -1,0 +1,5 @@
+fimbria	fimbria	O
+fimbrias	fimbria	P
+fimo	fimo	O
+fimos	fimo	P
+fimosis	fimosis	O

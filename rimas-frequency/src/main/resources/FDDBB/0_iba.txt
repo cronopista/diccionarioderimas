@@ -1,0 +1,8 @@
+ibaguereño	ibaguereño	O
+ibaguereñas	ibaguereño	FP
+ibaguereña	ibaguereño	F
+ibaguereños	ibaguereño	P
+ibarreño	ibarreño	O
+ibarreñas	ibarreño	FP
+ibarreña	ibarreño	F
+ibarreños	ibarreño	P

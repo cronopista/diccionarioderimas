@@ -1,0 +1,12 @@
+omecillo	omecillo	O
+omecillos	omecillo	P
+omega	omega	O
+omegas	omega	P
+omental	omental	O
+omentales	omental	P
+omento	omento	O
+omentos	omento	P
+omero	omero	O
+omeros	omero	P
+omeya	omeya	O
+omeyas	omeya	P

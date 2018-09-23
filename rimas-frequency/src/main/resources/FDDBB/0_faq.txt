@@ -1,0 +1,6 @@
+faquir	faquir	O
+faquires	faquir	P
+faquí	faquí	O
+faquíes	faquí	P
+faquín	faquín	O
+faquines	faquín	P

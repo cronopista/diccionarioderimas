@@ -1,0 +1,6 @@
+ulmaria	ulmaria	O
+ulmarias	ulmaria	P
+ulmáceo	ulmáceo	O
+ulmáceas	ulmáceo	FP
+ulmácea	ulmáceo	F
+ulmáceos	ulmáceo	P

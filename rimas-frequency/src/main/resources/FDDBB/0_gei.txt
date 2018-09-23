@@ -1,0 +1,4 @@
+geisha	geisha	O
+geishas	geisha	P
+géiser	géiser	O
+géiseres	géiser	P

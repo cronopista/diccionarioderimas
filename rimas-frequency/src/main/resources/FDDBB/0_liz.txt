@@ -1,0 +1,4 @@
+liza	liza	O
+lizas	liza	P
+lizo	lizo	O
+lizos	lizo	P

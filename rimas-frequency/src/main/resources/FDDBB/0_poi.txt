@@ -1,0 +1,16 @@
+poiquilotermia	poiquilotermia	O
+poiquilotermias	poiquilotermia	P
+poiquilotermo	poiquilotermo	O
+poiquilotermas	poiquilotermo	FP
+poiquiloterma	poiquilotermo	F
+poiquilotermos	poiquilotermo	P
+poiquilotérmico	poiquilotérmico	O
+poiquilotérmicas	poiquilotérmico	FP
+poiquilotérmica	poiquilotérmico	F
+poiquilotérmicos	poiquilotérmico	P
+poisa	poisa	O
+poisas	poisa	P
+poise	poise	O
+poises	poise	P
+poíno	poíno	O
+poínos	poíno	P

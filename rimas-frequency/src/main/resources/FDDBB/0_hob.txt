@@ -1,0 +1,14 @@
+hobacho	hobacho	O
+hobachas	hobacho	FP
+hobacha	hobacho	F
+hobachos	hobacho	P
+hobachonería	hobachonería	O
+hobachonerías	hobachonería	P
+hobachón	hobachón	O
+hobachonas	hobachón	FP
+hobachona	hobachón	F
+hobachones	hobachón	P
+hobby	hobby	O
+hobbyes	hobby	P
+hobo	hobo	O
+hobos	hobo	P

@@ -1,0 +1,10 @@
+zata	zata	O
+zatas	zata	P
+zatara	zatara	O
+zataras	zatara	P
+zatico	zatico	O
+zaticos	zatico	P
+zatillo	zatillo	O
+zatillos	zatillo	P
+zatiquero	zatiquero	O
+zatiqueros	zatiquero	P

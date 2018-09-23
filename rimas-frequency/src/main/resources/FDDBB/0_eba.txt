@@ -1,0 +1,6 @@
+ebanista	ebanista	O
+ebanistas	ebanista	P
+ebanistería	ebanistería	O
+ebanisterías	ebanistería	P
+ébano	ébano	O
+ébanos	ébano	P

@@ -1,0 +1,12 @@
+zaida	zaida	O
+zaidas	zaida	P
+zaina	zaina	O
+zainas	zaina	P
+zaino	zaino	O
+zainas	zaino	FP
+zaina	zaino	F
+zainos	zaino	P
+zaireño	zaireño	O
+zaireñas	zaireño	FP
+zaireña	zaireño	F
+zaireños	zaireño	P

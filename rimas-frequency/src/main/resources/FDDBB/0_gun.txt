@@ -1,0 +1,4 @@
+gunneráceo	gunneráceo	O
+gunneráceas	gunneráceo	FP
+gunnerácea	gunneráceo	F
+gunneráceos	gunneráceo	P

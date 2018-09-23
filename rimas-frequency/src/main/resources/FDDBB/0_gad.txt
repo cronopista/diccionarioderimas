@@ -1,0 +1,10 @@
+gaditano	gaditano	O
+gaditanas	gaditano	FP
+gaditana	gaditano	F
+gaditanos	gaditano	P
+gadolinio	gadolinio	O
+gadolinios	gadolinio	P
+gádido	gádido	O
+gádidas	gádido	FP
+gádida	gádido	F
+gádidos	gádido	P

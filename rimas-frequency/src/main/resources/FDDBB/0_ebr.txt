@@ -1,0 +1,14 @@
+ebrancado	ebrancado	O
+ebrancadas	ebrancado	FP
+ebrancada	ebrancado	F
+ebrancados	ebrancado	P
+ebriedad	ebriedad	O
+ebriedades	ebriedad	P
+ebrio	ebrio	O
+ebrias	ebrio	FP
+ebria	ebrio	F
+ebrios	ebrio	P
+ebrioso	ebrioso	O
+ebriosas	ebrioso	FP
+ebriosa	ebrioso	F
+ebriosos	ebrioso	P

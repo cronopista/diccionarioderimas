@@ -1,0 +1,2 @@
+stock	stock	O
+stockes	stock	P

@@ -1,0 +1,9 @@
+aoristo	aoristo	O
+aoristos	aoristo	P
+aorta	aorta	O
+aortas	aorta	P
+aortitis	aortitis	O
+aórtico	aórtico	O
+aórticas	aórtico	FP
+aórtica	aórtico	F
+aórticos	aórtico	P

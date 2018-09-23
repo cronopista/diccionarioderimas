@@ -1,0 +1,6 @@
+adyacencia	adyacencia	O
+adyacencias	adyacencia	P
+adyacente	adyacente	O
+adyacentes	adyacente	P
+adyuvante	adyuvante	O
+adyuvantes	adyuvante	P

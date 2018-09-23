@@ -1,0 +1,5 @@
+irenarca	irenarca	O
+irenarcas	irenarca	P
+iré	ir	VIF1
+iremos	ir	VIF4
+iréis	ir	VIF5

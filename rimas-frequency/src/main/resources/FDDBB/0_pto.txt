@@ -1,0 +1,5 @@
+ptolemaico	ptolemaico	O
+ptolemaicas	ptolemaico	FP
+ptolemaica	ptolemaico	F
+ptolemaicos	ptolemaico	P
+ptosis	ptosis	O

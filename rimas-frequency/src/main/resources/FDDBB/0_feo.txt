@@ -1,0 +1,7 @@
+feo	feo	O
+feos	feo	P
+feos	fer	VMPE
+féoslo	fer	VMMSE
+féoslos	fer	VMMPE
+féosla	fer	VMFSE
+féoslas	fer	VMFPE

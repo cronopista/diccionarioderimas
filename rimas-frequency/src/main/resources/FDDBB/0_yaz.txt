@@ -1,0 +1,6 @@
+yazco	yacer	VIP1
+yazca	yacer	VSP1
+yazcas	yacer	VSP2
+yazcamos	yacer	VSP4
+yazcáis	yacer	VSP5
+yazcan	yacer	VSP6

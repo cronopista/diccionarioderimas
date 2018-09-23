@@ -1,0 +1,6 @@
+hove	hove	O
+hoves	hove	P
+hovero	hovero	O
+hoveras	hovero	FP
+hovera	hovero	F
+hoveros	hovero	P

@@ -1,0 +1,4 @@
+zodiacal	zodiacal	O
+zodiacales	zodiacal	P
+zodíaco	zodíaco	O
+zodíacos	zodíaco	P

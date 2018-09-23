@@ -1,0 +1,4 @@
+jienense	jienense	O
+jienenses	jienense	P
+jiennense	jiennense	O
+jiennenses	jiennense	P

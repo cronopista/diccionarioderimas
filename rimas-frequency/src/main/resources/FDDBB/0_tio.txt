@@ -1,0 +1,8 @@
+tioneo	tioneo	O
+tioneos	tioneo	P
+tiorba	tiorba	O
+tiorbas	tiorba	P
+tiovivo	tiovivo	O
+tiovivos	tiovivo	P
+tío	tío	O
+tíos	tío	P

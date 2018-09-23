@@ -1,0 +1,8 @@
+duunvir	duunvir	O
+duunvires	duunvir	P
+duunviral	duunviral	O
+duunvirales	duunviral	P
+duunvirato	duunvirato	O
+duunviratos	duunvirato	P
+duunviro	duunviro	O
+duunviros	duunviro	P

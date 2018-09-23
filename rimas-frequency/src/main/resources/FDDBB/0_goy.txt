@@ -1,0 +1,4 @@
+goyesco	goyesco	O
+goyescas	goyesco	FP
+goyesca	goyesco	F
+goyescos	goyesco	P

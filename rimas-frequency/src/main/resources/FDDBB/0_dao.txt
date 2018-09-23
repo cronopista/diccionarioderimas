@@ -1,0 +1,5 @@
+daos	dar	VMPE
+dáoslo	dar	VMMSE
+dáoslos	dar	VMMPE
+dáosla	dar	VMFSE
+dáoslas	dar	VMFPE

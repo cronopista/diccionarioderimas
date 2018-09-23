@@ -1,0 +1,13 @@
+gutagamba	gutagamba	O
+gutagambas	gutagamba	P
+gutapercha	gutapercha	O
+gutaperchas	gutapercha	P
+gutiámbar	gutiámbar	O
+gutiámbares	gutiámbar	P
+gutural	gutural	O
+guturales	gutural	P
+guturalmente	guturalmente	O
+gutífero	gutífero	O
+gutíferas	gutífero	FP
+gutífera	gutífero	F
+gutíferos	gutífero	P

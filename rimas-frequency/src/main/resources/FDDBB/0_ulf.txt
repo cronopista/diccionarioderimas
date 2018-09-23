@@ -1,0 +1,4 @@
+ulfilano	ulfilano	O
+ulfilanas	ulfilano	FP
+ulfilana	ulfilano	F
+ulfilanos	ulfilano	P

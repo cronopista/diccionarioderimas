@@ -1,0 +1,2 @@
+yeti	yeti	O
+yetis	yeti	P

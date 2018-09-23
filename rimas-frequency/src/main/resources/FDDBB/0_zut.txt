@@ -1,0 +1,8 @@
+zutano	zutano	O
+zutanas	zutano	FP
+zutana	zutano	F
+zutanos	zutano	P
+zutuhil	zutuhil	O
+zutuhiles	zutuhil	P
+zutujil	zutujil	O
+zutujiles	zutujil	P

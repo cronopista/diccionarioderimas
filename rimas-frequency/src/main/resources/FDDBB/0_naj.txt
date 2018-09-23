@@ -1,0 +1,12 @@
+naja	naja	O
+najas	naja	P
+najerano	najerano	O
+najeranas	najerano	FP
+najerana	najerano	F
+najeranos	najerano	P
+najerense	najerense	O
+najerenses	najerense	P
+najerino	najerino	O
+najerinas	najerino	FP
+najerina	najerino	F
+najerinos	najerino	P

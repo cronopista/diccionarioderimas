@@ -1,0 +1,4 @@
+eibarrés	eibarrés	O
+eibarresas	eibarrés	FP
+eibarresa	eibarrés	F
+eibarreses	eibarrés	P

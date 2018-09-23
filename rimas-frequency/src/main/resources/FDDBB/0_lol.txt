@@ -1,0 +1,4 @@
+lolio	lolio	O
+lolios	lolio	P
+lolita	lolita	O
+lolitas	lolita	P

@@ -1,0 +1,12 @@
+zoma	zoma	O
+zomas	zoma	P
+zombi	zombi	O
+zombis	zombi	P
+zompo	zompo	O
+zompas	zompo	FP
+zompa	zompo	F
+zompos	zompo	P
+zompopera	zompopera	O
+zompoperas	zompopera	P
+zompopo	zompopo	O
+zompopos	zompopo	P

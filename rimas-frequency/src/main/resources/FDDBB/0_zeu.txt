@@ -1,0 +1,2 @@
+zeugma	zeugma	O
+zeugmas	zeugma	P

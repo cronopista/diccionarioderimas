@@ -1,0 +1,6 @@
+itinerante	itinerante	O
+itinerantes	itinerante	P
+itinerario	itinerario	O
+itinerarias	itinerario	FP
+itineraria	itinerario	F
+itinerarios	itinerario	P

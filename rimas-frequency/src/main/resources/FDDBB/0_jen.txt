@@ -1,0 +1,12 @@
+jenabe	jenabe	O
+jenabes	jenabe	P
+jenable	jenable	O
+jenables	jenable	P
+jengibre	jengibre	O
+jengibres	jengibre	P
+jeniquén	jeniquén	O
+jeniquenes	jeniquén	P
+jenízaro	jenízaro	O
+jenízaras	jenízaro	FP
+jenízara	jenízaro	F
+jenízaros	jenízaro	P

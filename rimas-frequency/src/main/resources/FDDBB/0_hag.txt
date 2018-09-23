@@ -1,0 +1,10 @@
+hagiografía	hagiografía	O
+hagiografías	hagiografía	P
+hagiográfico	hagiográfico	O
+hagiográficas	hagiográfico	FP
+hagiográfica	hagiográfico	F
+hagiográficos	hagiográfico	P
+hagiógrafo	hagiógrafo	O
+hagiógrafas	hagiógrafo	FP
+hagiógrafa	hagiógrafo	F
+hagiógrafos	hagiógrafo	P

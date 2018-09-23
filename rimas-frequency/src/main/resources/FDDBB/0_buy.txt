@@ -1,0 +1,2 @@
+buyo	buyo	O
+buyos	buyo	P

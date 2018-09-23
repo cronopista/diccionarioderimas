@@ -1,0 +1,14 @@
+duba	duba	O
+dubas	duba	P
+dubda	dubda	O
+dubdas	dubda	P
+dubio	dubio	O
+dubios	dubio	P
+dubitable	dubitable	O
+dubitables	dubitable	P
+dubitación	dubitación	O
+dubitaciones	dubitación	P
+dubitativo	dubitativo	O
+dubitativas	dubitativo	FP
+dubitativa	dubitativo	F
+dubitativos	dubitativo	P

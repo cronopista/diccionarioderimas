@@ -1,0 +1,12 @@
+noli	noli	O
+nolis	noli	P
+nolición	nolición	O
+noliciones	nolición	P
+nolit	nolit	O
+nolites	nolit	P
+noluntad	noluntad	O
+noluntades	noluntad	P
+nolí	nolí	O
+nolíes	nolí	P
+ñola	ñola	O
+ñolas	ñola	P

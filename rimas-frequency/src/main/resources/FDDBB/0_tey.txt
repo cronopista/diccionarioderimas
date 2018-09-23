@@ -1,0 +1,6 @@
+teyo	teyo	O
+teyas	teyo	FP
+teya	teyo	F
+teyos	teyo	P
+teyú	teyú	O
+teyúes	teyú	P

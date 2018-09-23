@@ -1,0 +1,12 @@
+jifa	jifa	O
+jifas	jifa	P
+jiferada	jiferada	O
+jiferadas	jiferada	P
+jifero	jifero	O
+jiferas	jifero	FP
+jifera	jifero	F
+jiferos	jifero	P
+jifería	jifería	O
+jiferías	jifería	P
+jifia	jifia	O
+jifias	jifia	P

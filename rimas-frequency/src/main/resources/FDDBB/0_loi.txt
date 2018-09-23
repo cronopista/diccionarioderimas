@@ -1,0 +1,8 @@
+loica	loica	O
+loicas	loica	P
+loina	loina	O
+loinas	loina	P
+loísmo	loísmo	O
+loísmos	loísmo	P
+loísta	loísta	O
+loístas	loísta	P

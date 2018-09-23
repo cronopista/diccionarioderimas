@@ -1,0 +1,12 @@
+cea	cea	O
+ceas	cea	P
+ceaja	ceaja	O
+ceajas	ceaja	P
+ceajo	ceajo	O
+ceajos	ceajo	P
+ceanoto	ceanoto	O
+ceanotos	ceanoto	P
+cearina	cearina	O
+cearinas	cearina	P
+ceática	ceática	O
+ceáticas	ceática	P

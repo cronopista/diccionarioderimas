@@ -1,0 +1,10 @@
+mnemotecnia	mnemotecnia	O
+mnemotecnias	mnemotecnia	P
+mnemotécnico	mnemotécnico	O
+mnemotécnicas	mnemotécnico	FP
+mnemotécnica	mnemotécnico	F
+mnemotécnicos	mnemotécnico	P
+mnemónico	mnemónico	O
+mnemónicas	mnemónico	FP
+mnemónica	mnemónico	F
+mnemónicos	mnemónico	P

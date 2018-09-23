@@ -1,0 +1,4 @@
+washingtoniano	washingtoniano	O
+washingtonianas	washingtoniano	FP
+washingtoniana	washingtoniano	F
+washingtonianos	washingtoniano	P

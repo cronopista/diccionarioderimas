@@ -1,0 +1,8 @@
+lezda	lezda	O
+lezdas	lezda	P
+lezdero	lezdero	O
+lezderos	lezdero	P
+lezna	lezna	O
+leznas	lezna	P
+lezne	lezne	O
+leznes	lezne	P

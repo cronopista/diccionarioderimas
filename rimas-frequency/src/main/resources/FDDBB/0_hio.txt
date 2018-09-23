@@ -1,0 +1,10 @@
+hiogloso	hiogloso	O
+hioglosas	hiogloso	FP
+hioglosa	hiogloso	F
+hioglosos	hiogloso	P
+hioideo	hioideo	O
+hioideas	hioideo	FP
+hioidea	hioideo	F
+hioideos	hioideo	P
+hioides	hioides	O
+hió	her	VIX3

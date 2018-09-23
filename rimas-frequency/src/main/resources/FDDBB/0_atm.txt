@@ -1,0 +1,8 @@
+atmosfera	atmosfera	O
+atmosferas	atmosfera	P
+atmosférico	atmosférico	O
+atmosféricas	atmosférico	FP
+atmosférica	atmosférico	F
+atmosféricos	atmosférico	P
+atmósfera	atmósfera	O
+atmósferas	atmósfera	P

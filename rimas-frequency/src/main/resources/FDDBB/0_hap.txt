@@ -1,0 +1,11 @@
+haplografía	haplografía	O
+haplografías	haplografía	P
+haploide	haploide	O
+haploides	haploide	P
+haploidía	haploidía	O
+haploidías	haploidía	P
+haplología	haplología	O
+haplologías	haplología	P
+hapálido	hapálido	O
+hapálidos	hapálido	P
+hápax	hápax	O

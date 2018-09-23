@@ -1,0 +1,4 @@
+vusco	vusco	O
+vuscos	vusco	P
+vusted	vusted	O
+vustedes	vusted	P

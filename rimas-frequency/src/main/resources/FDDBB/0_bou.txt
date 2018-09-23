@@ -1,0 +1,6 @@
+bou	bou	O
+bous	bou	P
+bourbon	bourbon	O
+bourbones	bourbon	P
+boutique	boutique	O
+boutiques	boutique	P

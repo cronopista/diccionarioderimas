@@ -1,0 +1,4 @@
+kril	kril	O
+kriles	kril	P
+krill	krill	O
+krilles	krill	P

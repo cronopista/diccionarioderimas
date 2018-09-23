@@ -1,0 +1,6 @@
+onubense	onubense	O
+onubenses	onubense	P
+onusto	onusto	O
+onustas	onusto	FP
+onusta	onusto	F
+onustos	onusto	P

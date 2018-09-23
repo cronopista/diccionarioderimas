@@ -1,0 +1,14 @@
+nahoa	nahoa	O
+nahoas	nahoa	P
+nahua	nahua	O
+nahuas	nahua	P
+nahuatlato	nahuatlato	O
+nahuatlatas	nahuatlato	FP
+nahuatlata	nahuatlato	F
+nahuatlatos	nahuatlato	P
+nahuatlismo	nahuatlismo	O
+nahuatlismos	nahuatlismo	P
+náhuatl	náhuatl	O
+náhuatles	náhuatl	P
+náhuatle	náhuatle	O
+náhuatles	náhuatle	P

@@ -1,0 +1,14 @@
+japonense	japonense	O
+japonenses	japonense	P
+japonés	japonés	O
+japonesas	japonés	FP
+japonesa	japonés	F
+japoneses	japonés	P
+japuta	japuta	O
+japutas	japuta	P
+japón	japón	O
+japonas	japón	FP
+japona	japón	F
+japones	japón	P
+japónica	japónica	O
+japónicas	japónica	P

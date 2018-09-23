@@ -1,0 +1,12 @@
+otramente	otramente	O
+otraño	otraño	O
+otre	otre	O
+otres	otre	P
+otri	otri	O
+otris	otri	P
+otro	otro	O
+otras	otro	FP
+otra	otro	F
+otros	otro	P
+otrora	otrora	O
+otrosí	otrosí	O

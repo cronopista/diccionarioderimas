@@ -1,0 +1,14 @@
+viuda	viuda	O
+viudas	viuda	P
+viudal	viudal	O
+viudales	viudal	P
+viudedad	viudedad	O
+viudedades	viudedad	P
+viudez	viudez	O
+viudeces	viudez	P
+viudita	viudita	O
+viuditas	viudita	P
+viudo	viudo	O
+viudas	viudo	FP
+viuda	viudo	F
+viudos	viudo	P

@@ -1,0 +1,4 @@
+hawaiano	hawaiano	O
+hawaianas	hawaiano	FP
+hawaiana	hawaiano	F
+hawaianos	hawaiano	P

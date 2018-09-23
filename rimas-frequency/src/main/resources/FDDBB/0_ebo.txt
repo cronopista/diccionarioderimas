@@ -1,0 +1,6 @@
+ebonita	ebonita	O
+ebonitas	ebonita	P
+eborario	eborario	O
+eborarias	eborario	FP
+eboraria	eborario	F
+eborarios	eborario	P

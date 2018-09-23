@@ -1,0 +1,4 @@
+yelgo	yelgo	O
+yelgos	yelgo	P
+yelmo	yelmo	O
+yelmos	yelmo	P

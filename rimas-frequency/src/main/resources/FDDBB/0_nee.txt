@@ -1,0 +1,4 @@
+neerlandés	neerlandés	O
+neerlandesas	neerlandés	FP
+neerlandesa	neerlandés	F
+neerlandeses	neerlandés	P

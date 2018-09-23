@@ -1,0 +1,6 @@
+azteca	azteca	O
+aztecas	azteca	P
+aztequismo	aztequismo	O
+aztequismos	aztequismo	P
+aztor	aztor	O
+aztores	aztor	P

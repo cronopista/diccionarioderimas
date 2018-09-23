@@ -1,0 +1,9 @@
+esa	esa	O
+esas	esa	P
+ésa	ésa	O
+ésas	ésa	P
+esa	eser	VSP1
+esas	eser	VSP2
+esamos	eser	VSP4
+esáis	eser	VSP5
+esan	eser	VSP6

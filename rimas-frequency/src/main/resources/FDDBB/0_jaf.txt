@@ -1,0 +1,4 @@
+jafético	jafético	O
+jaféticas	jafético	FP
+jafética	jafético	F
+jaféticos	jafético	P

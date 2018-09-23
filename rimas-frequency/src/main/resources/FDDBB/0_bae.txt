@@ -1,0 +1,8 @@
+baenero	baenero	O
+baeneras	baenero	FP
+baenera	baenero	F
+baeneros	baenero	P
+baezano	baezano	O
+baezanas	baezano	FP
+baezana	baezano	F
+baezanos	baezano	P

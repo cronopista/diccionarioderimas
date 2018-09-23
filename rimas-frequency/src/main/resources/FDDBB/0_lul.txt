@@ -1,0 +1,12 @@
+luliano	luliano	O
+lulianas	luliano	FP
+luliana	luliano	F
+lulianos	luliano	P
+lulismo	lulismo	O
+lulismos	lulismo	P
+lulista	lulista	O
+lulistas	lulista	P
+lulo	lulo	O
+lulos	lulo	P
+lulú	lulú	O
+lulúes	lulú	P

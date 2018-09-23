@@ -1,0 +1,6 @@
+diyambo	diyambo	O
+diyambos	diyambo	P
+diyámbico	diyámbico	O
+diyámbicas	diyámbico	FP
+diyámbica	diyámbico	F
+diyámbicos	diyámbico	P

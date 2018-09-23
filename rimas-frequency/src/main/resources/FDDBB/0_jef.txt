@@ -1,0 +1,6 @@
+jefa	jefa	O
+jefas	jefa	P
+jefatura	jefatura	O
+jefaturas	jefatura	P
+jefe	jefe	O
+jefes	jefe	P

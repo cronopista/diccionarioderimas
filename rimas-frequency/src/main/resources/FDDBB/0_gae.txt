@@ -1,0 +1,8 @@
+gaetano	gaetano	O
+gaetanas	gaetano	FP
+gaetana	gaetano	F
+gaetanos	gaetano	P
+gaélico	gaélico	O
+gaélicas	gaélico	FP
+gaélica	gaélico	F
+gaélicos	gaélico	P

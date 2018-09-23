@@ -1,0 +1,10 @@
+eubeo	eubeo	O
+eubeas	eubeo	FP
+eubea	eubeo	F
+eubeos	eubeo	P
+euboico	euboico	O
+euboicas	euboico	FP
+euboica	euboico	F
+euboicos	euboico	P
+eubolia	eubolia	O
+eubolias	eubolia	P

@@ -1,0 +1,10 @@
+ida	ida	O
+idas	ida	P
+idalio	idalio	O
+idalias	idalio	FP
+idalia	idalio	F
+idalios	idalio	P
+idas	ido	FP
+ida	ido	F
+ida	ir	VPF
+idas	ir	VPFP

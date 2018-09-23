@@ -1,0 +1,6 @@
+eidetismo	eidetismo	O
+eidetismos	eidetismo	P
+eidético	eidético	O
+eidéticas	eidético	FP
+eidética	eidético	F
+eidéticos	eidético	P

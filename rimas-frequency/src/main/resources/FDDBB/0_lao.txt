@@ -1,0 +1,6 @@
+laodicense	laodicense	O
+laodicenses	laodicense	P
+laosiano	laosiano	O
+laosianas	laosiano	FP
+laosiana	laosiano	F
+laosianos	laosiano	P

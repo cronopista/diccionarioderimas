@@ -1,0 +1,4 @@
+pixel	pixel	O
+pixeles	pixel	P
+píxide	píxide	O
+píxides	píxide	P

@@ -1,0 +1,10 @@
+nea	nea	O
+neas	nea	P
+neapolitano	neapolitano	O
+neapolitanas	neapolitano	FP
+neapolitana	neapolitano	F
+neapolitanos	neapolitano	P
+nearca	nearca	O
+nearcas	nearca	P
+neas	neo	FP
+nea	neo	F

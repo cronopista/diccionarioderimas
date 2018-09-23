@@ -1,0 +1,4 @@
+krausismo	krausismo	O
+krausismos	krausismo	P
+krausista	krausista	O
+krausistas	krausista	P

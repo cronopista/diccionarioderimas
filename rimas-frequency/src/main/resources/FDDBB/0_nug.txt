@@ -1,0 +1,4 @@
+nugatorio	nugatorio	O
+nugatorias	nugatorio	FP
+nugatoria	nugatorio	F
+nugatorios	nugatorio	P

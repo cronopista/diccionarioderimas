@@ -1,0 +1,15 @@
+miz	miz	O
+miza	miza	O
+mizas	miza	P
+mizcal	mizcal	O
+mizcales	mizcal	P
+mizo	mizo	O
+mizas	mizo	FP
+miza	mizo	F
+mizos	mizo	P
+mizqueño	mizqueño	O
+mizqueñas	mizqueño	FP
+mizqueña	mizqueño	F
+mizqueños	mizqueño	P
+mízcalo	mízcalo	O
+mízcalos	mízcalo	P

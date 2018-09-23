@@ -1,0 +1,11 @@
+azerbaijano	azerbaijano	O
+azerbaijanas	azerbaijano	FP
+azerbaijana	azerbaijano	F
+azerbaijanos	azerbaijano	P
+azerbaiyano	azerbaiyano	O
+azerbaiyanas	azerbaiyano	FP
+azerbaiyana	azerbaiyano	F
+azerbaiyanos	azerbaiyano	P
+azerí	azerí	O
+azeríes	azerí	P
+azeuxis	azeuxis	O

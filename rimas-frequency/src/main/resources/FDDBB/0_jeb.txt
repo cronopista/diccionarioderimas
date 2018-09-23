@@ -1,0 +1,6 @@
+jebe	jebe	O
+jebes	jebe	P
+jebuseo	jebuseo	O
+jebuseas	jebuseo	FP
+jebusea	jebuseo	F
+jebuseos	jebuseo	P

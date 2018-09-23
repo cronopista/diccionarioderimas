@@ -1,0 +1,6 @@
+jupa	jupa	O
+jupas	jupa	P
+jupiterino	jupiterino	O
+jupiterinas	jupiterino	FP
+jupiterina	jupiterino	F
+jupiterinos	jupiterino	P

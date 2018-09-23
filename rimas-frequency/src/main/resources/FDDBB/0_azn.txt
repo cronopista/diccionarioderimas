@@ -1,0 +1,4 @@
+aznacho	aznacho	O
+aznachos	aznacho	P
+aznallo	aznallo	O
+aznallos	aznallo	P

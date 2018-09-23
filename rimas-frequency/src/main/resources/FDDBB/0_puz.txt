@@ -1,0 +1,6 @@
+puzle	puzle	O
+puzles	puzle	P
+puzol	puzol	O
+puzoles	puzol	P
+puzolana	puzolana	O
+puzolanas	puzolana	P

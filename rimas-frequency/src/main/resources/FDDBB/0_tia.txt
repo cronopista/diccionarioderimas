@@ -1,0 +1,13 @@
+tiaca	tiaca	O
+tiacas	tiaca	P
+tialina	tialina	O
+tialinas	tialina	P
+tialismo	tialismo	O
+tialismos	tialismo	P
+tiangue	tiangue	O
+tiangues	tiangue	P
+tianguis	tianguis	O
+tiara	tiara	O
+tiaras	tiara	P
+tías	tío	FP
+tía	tío	F

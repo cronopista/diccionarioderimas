@@ -1,0 +1,4 @@
+moxa	moxa	O
+moxas	moxa	P
+moxte	moxte	O
+moxtes	moxte	P

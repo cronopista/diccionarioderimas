@@ -1,0 +1,4 @@
+yedgo	yedgo	O
+yedgos	yedgo	P
+yedra	yedra	O
+yedras	yedra	P

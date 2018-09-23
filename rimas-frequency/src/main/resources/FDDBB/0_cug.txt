@@ -1,0 +1,4 @@
+cugujada	cugujada	O
+cugujadas	cugujada	P
+cugulla	cugulla	O
+cugullas	cugulla	P

@@ -1,0 +1,6 @@
+gosipino	gosipino	O
+gosipinas	gosipino	FP
+gosipina	gosipino	F
+gosipinos	gosipino	P
+gospel	gospel	O
+gospeles	gospel	P

@@ -1,0 +1,9 @@
+tufarada	tufarada	O
+tufaradas	tufarada	P
+tufillas	tufillas	O
+tufo	tufo	O
+tufos	tufo	P
+tufoso	tufoso	O
+tufosas	tufoso	FP
+tufosa	tufoso	F
+tufosos	tufoso	P

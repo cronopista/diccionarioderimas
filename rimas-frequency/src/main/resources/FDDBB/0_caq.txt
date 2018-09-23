@@ -1,0 +1,10 @@
+caquetense	caquetense	O
+caquetenses	caquetense	P
+caquexia	caquexia	O
+caquexias	caquexia	P
+caqui	caqui	O
+caquis	caqui	P
+caquéctico	caquéctico	O
+caquécticas	caquéctico	FP
+caquéctica	caquéctico	F
+caquécticos	caquéctico	P

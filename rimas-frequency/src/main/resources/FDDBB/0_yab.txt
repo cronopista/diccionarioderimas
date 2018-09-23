@@ -1,0 +1,6 @@
+yaba	yaba	O
+yabas	yaba	P
+yabuna	yabuna	O
+yabunas	yabuna	P
+yabunal	yabunal	O
+yabunales	yabunal	P

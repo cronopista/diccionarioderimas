@@ -1,0 +1,6 @@
+afta	afta	O
+aftas	afta	P
+aftoso	aftoso	O
+aftosas	aftoso	FP
+aftosa	aftoso	F
+aftosos	aftoso	P

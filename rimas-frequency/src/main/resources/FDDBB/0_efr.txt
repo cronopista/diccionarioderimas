@@ -1,0 +1,6 @@
+efraimita	efraimita	O
+efraimitas	efraimita	P
+efrateo	efrateo	O
+efrateas	efrateo	FP
+efratea	efrateo	F
+efrateos	efrateo	P

@@ -1,0 +1,6 @@
+toga	toga	O
+togas	toga	P
+togado	togado	O
+togadas	togado	FP
+togada	togado	F
+togados	togado	P

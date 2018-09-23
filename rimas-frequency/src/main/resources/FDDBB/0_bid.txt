@@ -1,0 +1,6 @@
+bidente	bidente	O
+bidentes	bidente	P
+bidé	bidé	O
+bidés	bidé	P
+bidón	bidón	O
+bidones	bidón	P

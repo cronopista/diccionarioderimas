@@ -1,0 +1,4 @@
+mijero	mijero	O
+mijeros	mijero	P
+mijo	mijo	O
+mijos	mijo	P

@@ -1,0 +1,6 @@
+abyección	abyección	O
+abyecciones	abyección	P
+abyecto	abyecto	O
+abyectas	abyecto	FP
+abyecta	abyecto	F
+abyectos	abyecto	P

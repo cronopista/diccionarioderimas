@@ -1,0 +1,16 @@
+nogada	nogada	O
+nogadas	nogada	P
+nogal	nogal	O
+nogales	nogal	P
+nogalina	nogalina	O
+nogalinas	nogalina	P
+noguera	noguera	O
+nogueras	noguera	P
+noguerado	noguerado	O
+nogueradas	noguerado	FP
+noguerada	noguerado	F
+noguerados	noguerado	P
+nogueral	nogueral	O
+noguerales	nogueral	P
+nogueruela	nogueruela	O
+nogueruelas	nogueruela	P

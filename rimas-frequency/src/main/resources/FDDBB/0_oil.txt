@@ -1,0 +1,4 @@
+oil	oil	O
+oiles	oil	P
+oíl	oíl	O
+oíles	oíl	P

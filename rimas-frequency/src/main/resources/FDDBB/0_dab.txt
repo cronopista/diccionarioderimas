@@ -1,0 +1,7 @@
+dable	dable	O
+dables	dable	P
+daba	dar	VII1
+dabas	dar	VII2
+dábamos	dar	VII4
+dabais	dar	VII5
+daban	dar	VII6

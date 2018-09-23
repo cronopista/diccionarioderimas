@@ -1,0 +1,7 @@
+exquisitamente	exquisitamente	O
+exquisitez	exquisitez	O
+exquisiteces	exquisitez	P
+exquisito	exquisito	O
+exquisitas	exquisito	FP
+exquisita	exquisito	F
+exquisitos	exquisito	P

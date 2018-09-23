@@ -1,0 +1,14 @@
+tigana	tigana	O
+tiganas	tigana	P
+tigra	tigra	O
+tigras	tigra	P
+tigre	tigre	O
+tigres	tigre	P
+tigresa	tigresa	O
+tigresas	tigresa	P
+tigrillo	tigrillo	O
+tigrillos	tigrillo	P
+tigrito	tigrito	O
+tigritos	tigrito	P
+tigüilote	tigüilote	O
+tigüilotes	tigüilote	P

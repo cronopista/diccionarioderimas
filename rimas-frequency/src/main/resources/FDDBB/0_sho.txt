@@ -1,0 +1,4 @@
+short	short	O
+shortes	short	P
+show	show	O
+showes	show	P

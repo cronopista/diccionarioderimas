@@ -1,0 +1,8 @@
+kan	kan	O
+kanes	kan	P
+kantiano	kantiano	O
+kantianas	kantiano	FP
+kantiana	kantiano	F
+kantianos	kantiano	P
+kantismo	kantismo	O
+kantismos	kantismo	P

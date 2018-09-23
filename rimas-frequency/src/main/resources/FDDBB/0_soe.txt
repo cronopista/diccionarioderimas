@@ -1,0 +1,4 @@
+soez	soez	O
+soeces	soez	P
+soeza	soeza	O
+soezas	soeza	P

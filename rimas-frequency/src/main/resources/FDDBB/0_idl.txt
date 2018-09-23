@@ -1,0 +1,2 @@
+idle	ir	VMSE
+idles	ir	VMPE

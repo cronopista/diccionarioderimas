@@ -1,0 +1,9 @@
+rural	rural	O
+rurales	rural	P
+ruralismo	ruralismo	O
+ruralismos	ruralismo	P
+ruralmente	ruralmente	O
+rurrupata	rurrupata	O
+rurrupatas	rurrupata	P
+rurrú	rurrú	O
+rurrúes	rurrú	P

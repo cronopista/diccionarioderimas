@@ -1,0 +1,4 @@
+acne	acne	O
+acnes	acne	P
+acné	acné	O
+acnés	acné	P

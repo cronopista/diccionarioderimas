@@ -1,0 +1,10 @@
+roya	roya	O
+royas	roya	P
+royega	royega	O
+royegas	royega	P
+royo	royo	O
+royas	royo	FP
+roya	royo	F
+royos	royo	P
+royó	roer	VIX3
+royeron	roer	VIX6

@@ -1,0 +1,6 @@
+neldo	neldo	O
+neldos	neldo	P
+nelumbio	nelumbio	O
+nelumbios	nelumbio	P
+nelumbo	nelumbo	O
+nelumbos	nelumbo	P

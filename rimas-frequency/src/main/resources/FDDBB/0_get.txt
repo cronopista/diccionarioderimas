@@ -1,0 +1,12 @@
+geta	geta	O
+getas	geta	P
+getulo	getulo	O
+getulos	getulo	P
+gético	gético	O
+géticas	gético	FP
+gética	gético	F
+géticos	gético	P
+gétulo	gétulo	O
+gétulas	gétulo	FP
+gétula	gétulo	F
+gétulos	gétulo	P

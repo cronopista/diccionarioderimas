@@ -1,0 +1,2 @@
+footing	footing	O
+footinges	footing	P

@@ -1,0 +1,14 @@
+nodación	nodación	O
+nodaciones	nodación	P
+nodal	nodal	O
+nodales	nodal	P
+nodo	nodo	O
+nodos	nodo	P
+nodriza	nodriza	O
+nodrizas	nodriza	P
+nodular	nodular	O
+nodulares	nodular	P
+nodátil	nodátil	O
+nodátiles	nodátil	P
+nódulo	nódulo	O
+nódulos	nódulo	P

@@ -1,0 +1,6 @@
+havar	havar	O
+havares	havar	P
+havara	havara	O
+havaras	havara	P
+havo	havo	O
+havos	havo	P

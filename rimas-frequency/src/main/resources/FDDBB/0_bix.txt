@@ -1,0 +1,8 @@
+bixáceo	bixáceo	O
+bixáceas	bixáceo	FP
+bixácea	bixáceo	F
+bixáceos	bixáceo	P
+bixíneo	bixíneo	O
+bixíneas	bixíneo	FP
+bixínea	bixíneo	F
+bixíneos	bixíneo	P

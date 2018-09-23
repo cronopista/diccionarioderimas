@@ -1,0 +1,6 @@
+look	look	O
+lookes	look	P
+loor	loor	O
+loores	loor	P
+loo	loar	VIP1
+loó	loar	VIX3

@@ -1,0 +1,6 @@
+iglesia	iglesia	O
+iglesias	iglesia	P
+iglesiario	iglesiario	O
+iglesiarios	iglesiario	P
+iglú	iglú	O
+iglúes	iglú	P

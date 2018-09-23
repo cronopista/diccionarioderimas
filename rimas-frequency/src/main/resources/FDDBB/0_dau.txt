@@ -1,0 +1,4 @@
+dauco	dauco	O
+daucos	dauco	P
+daudá	daudá	O
+daudás	daudá	P

@@ -1,0 +1,10 @@
+icneumón	icneumón	O
+icneumones	icneumón	P
+icnografía	icnografía	O
+icnografías	icnografía	P
+icnográfico	icnográfico	O
+icnográficas	icnográfico	FP
+icnográfica	icnográfico	F
+icnográficos	icnográfico	P
+icnología	icnología	O
+icnologías	icnología	P

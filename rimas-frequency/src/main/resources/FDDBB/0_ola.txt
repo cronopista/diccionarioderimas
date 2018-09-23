@@ -1,0 +1,10 @@
+ola	ola	O
+olas	ola	P
+olaje	olaje	O
+olajes	olaje	P
+olambre	olambre	O
+olambres	olambre	P
+olambrilla	olambrilla	O
+olambrillas	olambrilla	P
+olá	olá	O
+olás	olá	P

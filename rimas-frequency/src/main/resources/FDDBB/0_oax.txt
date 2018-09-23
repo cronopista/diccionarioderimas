@@ -1,0 +1,4 @@
+oaxaqueño	oaxaqueño	O
+oaxaqueñas	oaxaqueño	FP
+oaxaqueña	oaxaqueño	F
+oaxaqueños	oaxaqueño	P

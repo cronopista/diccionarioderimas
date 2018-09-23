@@ -1,0 +1,8 @@
+toesa	toesa	O
+toesas	toesa	P
+toé	toar	VIX1
+toe	toar	VSP1
+toes	toar	VSP2
+toemos	toar	VSP4
+toéis	toar	VSP5
+toen	toar	VSP6

@@ -1,0 +1,6 @@
+stand	stand	O
+standes	stand	P
+standing	standing	O
+standinges	standing	P
+stábat	stábat	O
+stábates	stábat	P

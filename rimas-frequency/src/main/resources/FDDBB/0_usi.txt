@@ -1,0 +1,14 @@
+usier	usier	O
+usieres	usier	P
+usillo	usillo	O
+usillos	usillo	P
+usina	usina	O
+usinas	usina	P
+usiría	usiría	O
+usirías	usiría	P
+usitado	usitado	O
+usitadas	usitado	FP
+usitada	usitado	F
+usitados	usitado	P
+usía	usía	O
+usías	usía	P

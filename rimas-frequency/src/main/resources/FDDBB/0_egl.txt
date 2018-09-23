@@ -1,0 +1,8 @@
+eglesia	eglesia	O
+eglesias	eglesia	P
+eglógico	eglógico	O
+eglógicas	eglógico	FP
+eglógica	eglógico	F
+eglógicos	eglógico	P
+égloga	égloga	O
+églogas	égloga	P

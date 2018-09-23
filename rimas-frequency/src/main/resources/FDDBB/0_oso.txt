@@ -1,0 +1,12 @@
+oso	oso	O
+osos	oso	P
+osornino	osornino	O
+osorninas	osornino	FP
+osornina	osornino	F
+osorninos	osornino	P
+ososo	ososo	O
+ososas	ososo	FP
+ososa	ososo	F
+ososos	ososo	P
+oso	osar	VIP1
+osó	osar	VIX3

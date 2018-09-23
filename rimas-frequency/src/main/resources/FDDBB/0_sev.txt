@@ -1,0 +1,17 @@
+severamente	severamente	O
+severidad	severidad	O
+severidades	severidad	P
+severo	severo	O
+severas	severo	FP
+severa	severo	F
+severos	severo	P
+seviche	seviche	O
+seviches	seviche	P
+sevicia	sevicia	O
+sevicias	sevicia	P
+sevillano	sevillano	O
+sevillanas	sevillano	FP
+sevillana	sevillano	F
+sevillanos	sevillano	P
+séviro	séviro	O
+séviros	séviro	P

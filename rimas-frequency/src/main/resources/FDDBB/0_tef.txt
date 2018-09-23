@@ -1,0 +1,4 @@
+tefe	tefe	O
+tefes	tefe	P
+teflón	teflón	O
+teflones	teflón	P

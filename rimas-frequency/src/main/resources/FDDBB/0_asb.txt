@@ -1,0 +1,7 @@
+asbestino	asbestino	O
+asbestinas	asbestino	FP
+asbestina	asbestino	F
+asbestinos	asbestino	P
+asbesto	asbesto	O
+asbestos	asbesto	P
+asbestosis	asbestosis	O

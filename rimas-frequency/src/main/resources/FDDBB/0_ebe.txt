@@ -1,0 +1,4 @@
+ebenáceo	ebenáceo	O
+ebenáceas	ebenáceo	FP
+ebenácea	ebenáceo	F
+ebenáceos	ebenáceo	P

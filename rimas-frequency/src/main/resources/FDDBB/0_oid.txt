@@ -1,0 +1,12 @@
+oidor	oidor	O
+oidoras	oidor	FP
+oidora	oidor	F
+oidores	oidor	P
+oidoría	oidoría	O
+oidorías	oidoría	P
+oída	oída	O
+oídas	oída	P
+oídio	oídio	O
+oídios	oídio	P
+oído	oído	O
+oídos	oído	P

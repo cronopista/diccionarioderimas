@@ -1,0 +1,6 @@
+pteridofito	pteridofito	O
+pteridofitas	pteridofito	FP
+pteridofita	pteridofito	F
+pteridofitos	pteridofito	P
+pterodáctilo	pterodáctilo	O
+pterodáctilos	pterodáctilo	P

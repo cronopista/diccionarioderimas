@@ -1,0 +1,12 @@
+alna	alna	O
+alnas	alna	P
+alnado	alnado	O
+alnadas	alnado	FP
+alnada	alnado	F
+alnados	alnado	P
+alnafe	alnafe	O
+alnafes	alnafe	P
+alnedo	alnedo	O
+alnedos	alnedo	P
+alno	alno	O
+alnos	alno	P

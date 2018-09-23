@@ -1,0 +1,4 @@
+bao	bao	O
+baos	bao	P
+baobab	baobab	O
+baobabes	baobab	P

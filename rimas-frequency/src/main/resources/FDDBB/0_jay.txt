@@ -1,0 +1,4 @@
+jayán	jayán	O
+jayanas	jayán	FP
+jayana	jayán	F
+jayanes	jayán	P

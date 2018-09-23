@@ -1,0 +1,14 @@
+ayo	ayo	O
+ayos	ayo	P
+ayocote	ayocote	O
+ayocotes	ayocote	P
+ayopayeño	ayopayeño	O
+ayopayeñas	ayopayeño	FP
+ayopayeña	ayopayeño	F
+ayopayeños	ayopayeño	P
+ayora	ayora	O
+ayoras	ayora	P
+ayote	ayote	O
+ayotes	ayote	P
+ayotera	ayotera	O
+ayoteras	ayotera	P

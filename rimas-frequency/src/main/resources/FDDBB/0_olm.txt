@@ -1,0 +1,14 @@
+olma	olma	O
+olmas	olma	P
+olmeca	olmeca	O
+olmecas	olmeca	P
+olmeda	olmeda	O
+olmedas	olmeda	P
+olmedano	olmedano	O
+olmedanas	olmedano	FP
+olmedana	olmedano	F
+olmedanos	olmedano	P
+olmedo	olmedo	O
+olmedos	olmedo	P
+olmo	olmo	O
+olmos	olmo	P

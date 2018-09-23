@@ -1,0 +1,6 @@
+obusera	obusera	O
+obuseras	obusera	P
+obué	obué	O
+obués	obué	P
+obús	obús	O
+obuses	obús	P

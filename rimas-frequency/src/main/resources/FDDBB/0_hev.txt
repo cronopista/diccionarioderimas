@@ -1,0 +1,8 @@
+hevea	hevea	O
+heveas	hevea	P
+hevicultivo	hevicultivo	O
+hevicultivos	hevicultivo	P
+hevicultor	hevicultor	O
+hevicultoras	hevicultor	FP
+hevicultora	hevicultor	F
+hevicultores	hevicultor	P

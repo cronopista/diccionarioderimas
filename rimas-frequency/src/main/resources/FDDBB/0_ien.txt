@@ -1,0 +1,6 @@
+iendo	ir	VG
+iéndome	ir	VGSE
+iéndote	ir	VGSE
+iéndole	ir	VGSE
+iéndonos	ir	VGPE
+iéndoos	ir	VGPE

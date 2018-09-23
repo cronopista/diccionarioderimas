@@ -1,0 +1,4 @@
+paella	paella	O
+paellas	paella	P
+paellera	paellera	O
+paelleras	paellera	P

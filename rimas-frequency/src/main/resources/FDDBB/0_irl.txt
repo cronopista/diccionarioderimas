@@ -1,0 +1,10 @@
+irlanda	irlanda	O
+irlandas	irlanda	P
+irlandesco	irlandesco	O
+irlandescas	irlandesco	FP
+irlandesca	irlandesco	F
+irlandescos	irlandesco	P
+irlandés	irlandés	O
+irlandesas	irlandés	FP
+irlandesa	irlandés	F
+irlandeses	irlandés	P

@@ -1,0 +1,8 @@
+goetheano	goetheano	O
+goetheanas	goetheano	FP
+goetheana	goetheano	F
+goetheanos	goetheano	P
+goethiano	goethiano	O
+goethianas	goethiano	FP
+goethiana	goethiano	F
+goethianos	goethiano	P

@@ -1,0 +1,2 @@
+scooter	scooter	O
+scooteres	scooter	P

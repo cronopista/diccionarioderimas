@@ -1,0 +1,6 @@
+tao	tao	O
+taos	tao	P
+taoísmo	taoísmo	O
+taoísmos	taoísmo	P
+taoísta	taoísta	O
+taoístas	taoísta	P

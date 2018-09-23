@@ -1,0 +1,5 @@
+nupcial	nupcial	O
+nupciales	nupcial	P
+nupcialidad	nupcialidad	O
+nupcialidades	nupcialidad	P
+nupcias	nupcias	O

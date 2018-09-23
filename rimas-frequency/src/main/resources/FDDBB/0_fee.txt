@@ -1,0 +1,6 @@
+feeza	feeza	O
+feezas	feeza	P
+feérico	feérico	O
+feéricas	feérico	FP
+feérica	feérico	F
+feéricos	feérico	P

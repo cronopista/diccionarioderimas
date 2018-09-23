@@ -1,0 +1,12 @@
+ceiba	ceiba	O
+ceibas	ceiba	P
+ceibal	ceibal	O
+ceibales	ceibal	P
+ceibo	ceibo	O
+ceibos	ceibo	P
+ceibón	ceibón	O
+ceibones	ceibón	P
+ceilán	ceilán	O
+ceilanes	ceilán	P
+ceisatita	ceisatita	O
+ceisatitas	ceisatita	P

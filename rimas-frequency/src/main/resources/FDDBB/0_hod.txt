@@ -1,0 +1,6 @@
+hodierno	hodierno	O
+hodiernas	hodierno	FP
+hodierna	hodierno	F
+hodiernos	hodierno	P
+hodómetro	hodómetro	O
+hodómetros	hodómetro	P

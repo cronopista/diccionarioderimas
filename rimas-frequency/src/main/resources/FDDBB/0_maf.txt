@@ -1,0 +1,6 @@
+mafia	mafia	O
+mafias	mafia	P
+mafioso	mafioso	O
+mafiosas	mafioso	FP
+mafiosa	mafioso	F
+mafiosos	mafioso	P

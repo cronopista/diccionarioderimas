@@ -1,0 +1,7 @@
+jis	ji	P
+jisca	jisca	O
+jiscas	jisca	P
+jismero	jismero	O
+jismeras	jismero	FP
+jismera	jismero	F
+jismeros	jismero	P

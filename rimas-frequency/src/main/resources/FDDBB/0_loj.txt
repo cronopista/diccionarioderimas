@@ -1,0 +1,10 @@
+loja	loja	O
+lojas	loja	P
+lojano	lojano	O
+lojanas	lojano	FP
+lojana	lojano	F
+lojanos	lojano	P
+lojeño	lojeño	O
+lojeñas	lojeño	FP
+lojeña	lojeño	F
+lojeños	lojeño	P

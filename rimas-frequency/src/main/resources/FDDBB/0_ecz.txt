@@ -1,0 +1,6 @@
+eczema	eczema	O
+eczemas	eczema	P
+eczematoso	eczematoso	O
+eczematosas	eczematoso	FP
+eczematosa	eczematoso	F
+eczematosos	eczematoso	P

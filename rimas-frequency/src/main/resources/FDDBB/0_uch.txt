@@ -1,0 +1,4 @@
+uchu	uchu	O
+uchus	uchu	P
+uchú	uchú	O
+uchúes	uchú	P

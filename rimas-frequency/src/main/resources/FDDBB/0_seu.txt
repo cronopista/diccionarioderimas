@@ -1,0 +1,12 @@
+seudo	seudo	O
+seudos	seudo	P
+seudohermafrodita	seudohermafrodita	O
+seudohermafroditas	seudohermafrodita	P
+seudohermafroditismo	seudohermafroditismo	O
+seudohermafroditismos	seudohermafroditismo	P
+seudónimo	seudónimo	O
+seudónimas	seudónimo	FP
+seudónima	seudónimo	F
+seudónimos	seudónimo	P
+seudópodo	seudópodo	O
+seudópodos	seudópodo	P

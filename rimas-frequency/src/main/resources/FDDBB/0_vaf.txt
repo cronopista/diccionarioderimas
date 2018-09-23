@@ -1,0 +1,6 @@
+vafo	vafo	O
+vafos	vafo	P
+vafoso	vafoso	O
+vafosas	vafoso	FP
+vafosa	vafoso	F
+vafosos	vafoso	P

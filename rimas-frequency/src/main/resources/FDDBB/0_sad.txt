@@ -1,0 +1,16 @@
+sadismo	sadismo	O
+sadismos	sadismo	P
+sadomasoquismo	sadomasoquismo	O
+sadomasoquismos	sadomasoquismo	P
+sadomasoquista	sadomasoquista	O
+sadomasoquistas	sadomasoquista	P
+saduceo	saduceo	O
+saduceas	saduceo	FP
+saducea	saduceo	F
+saduceos	saduceo	P
+saduceísmo	saduceísmo	O
+saduceísmos	saduceísmo	P
+sádico	sádico	O
+sádicas	sádico	FP
+sádica	sádico	F
+sádicos	sádico	P

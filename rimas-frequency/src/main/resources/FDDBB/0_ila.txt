@@ -1,0 +1,8 @@
+ilación	ilación	O
+ilaciones	ilación	P
+ilapso	ilapso	O
+ilapsos	ilapso	P
+ilativo	ilativo	O
+ilativas	ilativo	FP
+ilativa	ilativo	F
+ilativos	ilativo	P

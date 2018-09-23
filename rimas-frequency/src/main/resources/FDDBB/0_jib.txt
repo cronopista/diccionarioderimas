@@ -1,0 +1,14 @@
+jibe	jibe	O
+jibes	jibe	P
+jibia	jibia	O
+jibias	jibia	P
+jibión	jibión	O
+jibiones	jibión	P
+jibraltareño	jibraltareño	O
+jibraltareñas	jibraltareño	FP
+jibraltareña	jibraltareño	F
+jibraltareños	jibraltareño	P
+jíbaro	jíbaro	O
+jíbaras	jíbaro	FP
+jíbara	jíbaro	F
+jíbaros	jíbaro	P

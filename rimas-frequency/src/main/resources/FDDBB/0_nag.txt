@@ -1,0 +1,16 @@
+nagua	nagua	O
+naguas	nagua	P
+nagual	nagual	O
+naguales	nagual	P
+naguapate	naguapate	O
+naguapates	naguapate	P
+naguatlato	naguatlato	O
+naguatlatas	naguatlato	FP
+naguatlata	naguatlato	F
+naguatlatos	naguatlato	P
+nagüela	nagüela	O
+nagüelas	nagüela	P
+náguatle	náguatle	O
+náguatles	náguatle	P
+ñagaza	ñagaza	O
+ñagazas	ñagaza	P

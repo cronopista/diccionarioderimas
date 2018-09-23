@@ -1,0 +1,2 @@
+kiosco	kiosco	O
+kioscos	kiosco	P

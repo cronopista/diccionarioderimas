@@ -1,0 +1,14 @@
+ciudad	ciudad	O
+ciudades	ciudad	P
+ciudadano	ciudadano	O
+ciudadanas	ciudadano	FP
+ciudadana	ciudadano	F
+ciudadanos	ciudadano	P
+ciudadanía	ciudadanía	O
+ciudadanías	ciudadanía	P
+ciudadela	ciudadela	O
+ciudadelas	ciudadela	P
+ciudadrealeño	ciudadrealeño	O
+ciudadrealeñas	ciudadrealeño	FP
+ciudadrealeña	ciudadrealeño	F
+ciudadrealeños	ciudadrealeño	P

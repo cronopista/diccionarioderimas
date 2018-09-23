@@ -1,0 +1,6 @@
+ziranda	ziranda	O
+zirandas	ziranda	P
+zirconio	zirconio	O
+zirconios	zirconio	P
+zircón	zircón	O
+zircones	zircón	P

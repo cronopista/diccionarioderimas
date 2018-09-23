@@ -1,0 +1,12 @@
+iqueño	iqueño	O
+iqueñas	iqueño	FP
+iqueña	iqueño	F
+iqueños	iqueño	P
+iquiqueño	iquiqueño	O
+iquiqueñas	iquiqueño	FP
+iquiqueña	iquiqueño	F
+iquiqueños	iquiqueño	P
+iquiteño	iquiteño	O
+iquiteñas	iquiteño	FP
+iquiteña	iquiteño	F
+iquiteños	iquiteño	P

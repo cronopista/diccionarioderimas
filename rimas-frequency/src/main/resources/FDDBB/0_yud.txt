@@ -1,0 +1,4 @@
+yudo	yudo	O
+yudos	yudo	P
+yudoca	yudoca	O
+yudocas	yudoca	P

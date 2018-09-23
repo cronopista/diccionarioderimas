@@ -1,0 +1,6 @@
+onza	onza	O
+onzas	onza	P
+onzavo	onzavo	O
+onzavas	onzavo	FP
+onzava	onzavo	F
+onzavos	onzavo	P

@@ -1,0 +1,4 @@
+oenoteráceo	oenoteráceo	O
+oenoteráceas	oenoteráceo	FP
+oenoterácea	oenoteráceo	F
+oenoteráceos	oenoteráceo	P

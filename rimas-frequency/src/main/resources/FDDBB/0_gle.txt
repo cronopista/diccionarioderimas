@@ -1,0 +1,4 @@
+gleba	gleba	O
+glebas	gleba	P
+glera	glera	O
+gleras	glera	P

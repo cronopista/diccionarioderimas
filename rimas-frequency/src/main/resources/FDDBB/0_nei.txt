@@ -1,0 +1,11 @@
+neis	neis	O
+neivano	neivano	O
+neivanas	neivano	FP
+neivana	neivano	F
+neivanos	neivano	P
+neísico	neísico	O
+neísicos	neísico	P
+néisico	néisico	O
+néisicas	néisico	FP
+néisica	néisico	F
+néisicos	néisico	P

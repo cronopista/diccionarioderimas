@@ -1,0 +1,2 @@
+ketchup	ketchup	O
+ketchupes	ketchup	P

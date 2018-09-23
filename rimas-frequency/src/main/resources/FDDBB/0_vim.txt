@@ -1,0 +1,4 @@
+vimbre	vimbre	O
+vimbres	vimbre	P
+vimbrera	vimbrera	O
+vimbreras	vimbrera	P

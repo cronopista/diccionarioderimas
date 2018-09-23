@@ -1,0 +1,4 @@
+zoster	zoster	O
+zosteres	zoster	P
+zóster	zóster	O
+zósteres	zóster	P

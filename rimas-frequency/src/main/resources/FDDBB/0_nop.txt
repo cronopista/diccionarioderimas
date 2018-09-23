@@ -1,0 +1,8 @@
+nopal	nopal	O
+nopales	nopal	P
+nopaleda	nopaleda	O
+nopaledas	nopaleda	P
+nopalera	nopalera	O
+nopaleras	nopalera	P
+nopalito	nopalito	O
+nopalitos	nopalito	P

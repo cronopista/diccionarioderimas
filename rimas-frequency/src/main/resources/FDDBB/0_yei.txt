@@ -1,0 +1,4 @@
+yeísmo	yeísmo	O
+yeísmos	yeísmo	P
+yeísta	yeísta	O
+yeístas	yeísta	P

@@ -1,0 +1,10 @@
+nipa	nipa	O
+nipas	nipa	P
+nipis	nipis	O
+nipos	nipos	O
+nipón	nipón	O
+niponas	nipón	FP
+nipona	nipón	F
+nipones	nipón	P
+ñipe	ñipe	O
+ñipes	ñipe	P

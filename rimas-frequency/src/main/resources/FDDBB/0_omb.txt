@@ -1,0 +1,10 @@
+ombligada	ombligada	O
+ombligadas	ombligada	P
+ombligo	ombligo	O
+ombligos	ombligo	P
+ombliguero	ombliguero	O
+ombligueros	ombliguero	P
+ombría	ombría	O
+ombrías	ombría	P
+ombú	ombú	O
+ombúes	ombú	P

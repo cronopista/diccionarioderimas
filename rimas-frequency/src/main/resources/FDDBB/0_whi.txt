@@ -1,0 +1,4 @@
+whiskería	whiskería	O
+whiskerías	whiskería	P
+whisky	whisky	O
+whiskyes	whisky	P

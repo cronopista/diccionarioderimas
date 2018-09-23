@@ -1,0 +1,8 @@
+bugalla	bugalla	O
+bugallas	bugalla	P
+buganvilla	buganvilla	O
+buganvillas	buganvilla	P
+bugle	bugle	O
+bugles	bugle	P
+buglosa	buglosa	O
+buglosas	buglosa	P

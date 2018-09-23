@@ -1,0 +1,4 @@
+taekwondo	taekwondo	O
+taekwondos	taekwondo	P
+tael	tael	O
+taeles	tael	P

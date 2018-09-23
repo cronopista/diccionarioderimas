@@ -1,0 +1,4 @@
+zelandés	zelandés	O
+zelandesas	zelandés	FP
+zelandesa	zelandés	F
+zelandeses	zelandés	P

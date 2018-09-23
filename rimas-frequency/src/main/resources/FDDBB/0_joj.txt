@@ -1,0 +1,6 @@
+jojoba	jojoba	O
+jojobas	jojoba	P
+jojoto	jojoto	O
+jojotas	jojoto	FP
+jojota	jojoto	F
+jojotos	jojoto	P

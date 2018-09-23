@@ -1,0 +1,4 @@
+boezuelo	boezuelo	O
+boezuelos	boezuelo	P
+bóer	bóer	O
+bóeres	bóer	P

@@ -1,0 +1,6 @@
+oboe	oboe	O
+oboes	oboe	P
+oboísta	oboísta	O
+oboístas	oboísta	P
+óbolo	óbolo	O
+óbolos	óbolo	P

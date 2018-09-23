@@ -1,0 +1,4 @@
+noúmeno	noúmeno	O
+noúmenos	noúmeno	P
+nóumeno	nóumeno	O
+nóumenos	nóumeno	P

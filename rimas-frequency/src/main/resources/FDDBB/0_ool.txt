@@ -1,0 +1,6 @@
+oolito	oolito	O
+oolitos	oolito	P
+oolítico	oolítico	O
+oolíticas	oolítico	FP
+oolítica	oolítico	F
+oolíticos	oolítico	P

@@ -1,0 +1,14 @@
+tequeño	tequeño	O
+tequeñas	tequeño	FP
+tequeña	tequeño	F
+tequeños	tequeño	P
+tequiche	tequiche	O
+tequiches	tequiche	P
+tequila	tequila	O
+tequilas	tequila	P
+tequio	tequio	O
+tequios	tequio	P
+tequioso	tequioso	O
+tequiosas	tequioso	FP
+tequiosa	tequioso	F
+tequiosos	tequioso	P

@@ -1,0 +1,14 @@
+osmanlí	osmanlí	O
+osmanlíes	osmanlí	P
+osmazomo	osmazomo	O
+osmazomos	osmazomo	P
+osmio	osmio	O
+osmios	osmio	P
+osmosis	osmosis	O
+osmómetro	osmómetro	O
+osmómetros	osmómetro	P
+osmótico	osmótico	O
+osmóticas	osmótico	FP
+osmótica	osmótico	F
+osmóticos	osmótico	P
+ósmosis	ósmosis	O

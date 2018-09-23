@@ -1,0 +1,10 @@
+tique	tique	O
+tiques	tique	P
+tiquete	tiquete	O
+tiquetes	tiquete	P
+tiqui	tiqui	O
+tiquis	tiqui	P
+tiquis	tiquis	O
+tiquismiquis	tiquismiquis	O
+tiquizque	tiquizque	O
+tiquizques	tiquizque	P

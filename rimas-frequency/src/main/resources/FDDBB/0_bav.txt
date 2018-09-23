@@ -1,0 +1,4 @@
+bávaro	bávaro	O
+bávaras	bávaro	FP
+bávara	bávaro	F
+bávaros	bávaro	P

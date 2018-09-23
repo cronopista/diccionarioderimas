@@ -1,0 +1,5 @@
+heos	her	VMPE
+héoslo	her	VMMSE
+héoslos	her	VMMPE
+héosla	her	VMFSE
+héoslas	her	VMFPE

@@ -1,0 +1,8 @@
+cufifo	cufifo	O
+cufifas	cufifo	FP
+cufifa	cufifo	F
+cufifos	cufifo	P
+cúfico	cúfico	O
+cúficas	cúfico	FP
+cúfica	cúfico	F
+cúficos	cúfico	P

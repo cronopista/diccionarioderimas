@@ -1,0 +1,4 @@
+ecijano	ecijano	O
+ecijanas	ecijano	FP
+ecijana	ecijano	F
+ecijanos	ecijano	P

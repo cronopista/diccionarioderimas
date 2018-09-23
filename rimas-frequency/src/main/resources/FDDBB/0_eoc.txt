@@ -1,0 +1,8 @@
+eoceno	eoceno	O
+eocenas	eoceno	FP
+eocena	eoceno	F
+eocenos	eoceno	P
+eocénico	eocénico	O
+eocénicas	eocénico	FP
+eocénica	eocénico	F
+eocénicos	eocénico	P

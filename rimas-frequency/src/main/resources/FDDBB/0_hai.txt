@@ -1,0 +1,7 @@
+haiga	haiga	O
+haigas	haiga	P
+haitiano	haitiano	O
+haitianas	haitiano	FP
+haitiana	haitiano	F
+haitianos	haitiano	P
+háis	her	VSP5

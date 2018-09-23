@@ -1,0 +1,10 @@
+teinada	teinada	O
+teinadas	teinada	P
+teitral	teitral	O
+teitrales	teitral	P
+teína	teína	O
+teínas	teína	P
+teísmo	teísmo	O
+teísmos	teísmo	P
+teísta	teísta	O
+teístas	teísta	P

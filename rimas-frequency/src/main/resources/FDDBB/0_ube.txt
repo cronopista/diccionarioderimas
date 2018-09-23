@@ -1,0 +1,8 @@
+ube	ube	O
+ubes	ube	P
+ubetense	ubetense	O
+ubetenses	ubetense	P
+ubérrimo	ubérrimo	O
+ubérrimas	ubérrimo	FP
+ubérrima	ubérrimo	F
+ubérrimos	ubérrimo	P

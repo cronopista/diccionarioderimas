@@ -1,0 +1,8 @@
+zazo	zazo	O
+zazas	zazo	FP
+zaza	zazo	F
+zazos	zazo	P
+zazoso	zazoso	O
+zazosas	zazoso	FP
+zazosa	zazoso	F
+zazosos	zazoso	P

@@ -1,0 +1,4 @@
+meya	meya	O
+meyas	meya	P
+meyor	meyor	O
+meyores	meyor	P

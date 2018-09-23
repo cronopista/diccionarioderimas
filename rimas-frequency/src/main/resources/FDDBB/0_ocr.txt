@@ -1,0 +1,6 @@
+ocre	ocre	O
+ocres	ocre	P
+ocráceo	ocráceo	O
+ocráceas	ocráceo	FP
+ocrácea	ocráceo	F
+ocráceos	ocráceo	P

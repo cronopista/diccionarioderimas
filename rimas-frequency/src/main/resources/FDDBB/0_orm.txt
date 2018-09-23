@@ -1,0 +1,4 @@
+ormesí	ormesí	O
+ormesíes	ormesí	P
+ormino	ormino	O
+orminos	ormino	P

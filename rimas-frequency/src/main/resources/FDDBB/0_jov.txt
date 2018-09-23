@@ -1,0 +1,11 @@
+joven	joven	O
+jovenes	joven	P
+jovenado	jovenado	O
+jovenados	jovenado	P
+jovenete	jovenete	O
+jovenetes	jovenete	P
+jovial	jovial	O
+joviales	jovial	P
+jovialidad	jovialidad	O
+jovialidades	jovialidad	P
+jovialmente	jovialmente	O

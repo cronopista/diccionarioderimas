@@ -1,0 +1,13 @@
+sialismo	sialismo	O
+sialismos	sialismo	P
+siamés	siamés	O
+siamesas	siamés	FP
+siamesa	siamés	F
+siameses	siamés	P
+sian	sian	O
+sianes	sian	P
+sía	ser	VII1
+sías	ser	VII2
+síamos	ser	VII4
+síais	ser	VII5
+sían	ser	VII6

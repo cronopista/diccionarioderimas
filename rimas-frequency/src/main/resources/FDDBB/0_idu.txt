@@ -1,0 +1,5 @@
+idumeo	idumeo	O
+idumeas	idumeo	FP
+idumea	idumeo	F
+idumeos	idumeo	P
+idus	idus	O

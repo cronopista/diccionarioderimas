@@ -1,0 +1,9 @@
+daifa	daifa	O
+daifas	daifa	P
+daimio	daimio	O
+daimios	daimio	P
+daiquiri	daiquiri	O
+daiquiris	daiquiri	P
+daiquirí	daiquirí	O
+daiquiríes	daiquirí	P
+dáis	dar	VIP5

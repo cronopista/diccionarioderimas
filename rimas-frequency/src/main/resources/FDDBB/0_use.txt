@@ -1,0 +1,10 @@
+usencia	usencia	O
+usencias	usencia	P
+useñoría	useñoría	O
+useñorías	useñoría	P
+usé	usar	VIX1
+use	usar	VSP1
+uses	usar	VSP2
+usemos	usar	VSP4
+uséis	usar	VSP5
+usen	usar	VSP6

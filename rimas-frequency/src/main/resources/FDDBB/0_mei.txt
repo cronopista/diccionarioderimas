@@ -1,0 +1,7 @@
+meigo	meigo	O
+meigas	meigo	FP
+meiga	meigo	F
+meigos	meigo	P
+meiosis	meiosis	O
+meitad	meitad	O
+meitades	meitad	P

@@ -1,0 +1,6 @@
+pibe	pibe	O
+pibes	pibe	P
+piberío	piberío	O
+piberíos	piberío	P
+pibil	pibil	O
+pibiles	pibil	P

@@ -1,0 +1,4 @@
+efabilidad	efabilidad	O
+efabilidades	efabilidad	P
+efable	efable	O
+efables	efable	P

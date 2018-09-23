@@ -1,0 +1,2 @@
+anverso	anverso	O
+anversos	anverso	P

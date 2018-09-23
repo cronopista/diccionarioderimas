@@ -1,0 +1,12 @@
+zucarino	zucarino	O
+zucarinas	zucarino	FP
+zucarina	zucarino	F
+zucarinos	zucarino	P
+zucurco	zucurco	O
+zucurcos	zucurco	P
+zucé	zuzar	VIX1
+zuce	zuzar	VSP1
+zuces	zuzar	VSP2
+zucemos	zuzar	VSP4
+zucéis	zuzar	VSP5
+zucen	zuzar	VSP6

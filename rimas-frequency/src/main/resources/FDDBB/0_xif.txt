@@ -1,0 +1,5 @@
+xifoideo	xifoideo	O
+xifoideas	xifoideo	FP
+xifoidea	xifoideo	F
+xifoideos	xifoideo	P
+xifoides	xifoides	O

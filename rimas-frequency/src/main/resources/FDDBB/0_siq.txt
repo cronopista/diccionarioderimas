@@ -1,0 +1,15 @@
+siquiatra	siquiatra	O
+siquiatras	siquiatra	P
+siquiatría	siquiatría	O
+siquiatrías	siquiatría	P
+siquier	siquier	O
+siquieres	siquier	P
+siquiera	siquiera	O
+siquitraque	siquitraque	O
+siquitraques	siquitraque	P
+siquíatra	siquíatra	O
+siquíatras	siquíatra	P
+síquico	síquico	O
+síquicas	síquico	FP
+síquica	síquico	F
+síquicos	síquico	P

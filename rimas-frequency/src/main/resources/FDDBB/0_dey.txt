@@ -1,0 +1,8 @@
+dey	dey	O
+deyes	dey	P
+deyección	deyección	O
+deyecciones	deyección	P
+deyecto	deyecto	O
+deyectas	deyecto	FP
+deyecta	deyecto	F
+deyectos	deyecto	P

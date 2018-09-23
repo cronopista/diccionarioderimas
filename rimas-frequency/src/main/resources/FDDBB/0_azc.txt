@@ -1,0 +1,6 @@
+azcarrio	azcarrio	O
+azcarrios	azcarrio	P
+azcona	azcona	O
+azconas	azcona	P
+azcón	azcón	O
+azcones	azcón	P

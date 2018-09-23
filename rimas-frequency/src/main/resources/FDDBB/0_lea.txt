@@ -1,0 +1,14 @@
+leal	leal	O
+leales	leal	P
+lealdad	lealdad	O
+lealdades	lealdad	P
+lealmente	lealmente	O
+lealtad	lealtad	O
+lealtades	lealtad	P
+leasing	leasing	O
+leasinges	leasing	P
+lea	leer	VSP1
+leas	leer	VSP2
+leamos	leer	VSP4
+leáis	leer	VSP5
+lean	leer	VSP6

@@ -1,0 +1,6 @@
+aaronita	aaronita	O
+aaronitas	aaronita	P
+aarónico	aarónico	O
+aarónicas	aarónico	FP
+aarónica	aarónico	F
+aarónicos	aarónico	P

@@ -1,0 +1,4 @@
+apsara	apsara	O
+apsaras	apsara	P
+ápside	ápside	O
+ápsides	ápside	P

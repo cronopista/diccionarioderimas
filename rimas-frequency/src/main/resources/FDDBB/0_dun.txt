@@ -1,0 +1,10 @@
+duna	duna	O
+dunas	duna	P
+dundeco	dundeco	O
+dundecas	dundeco	FP
+dundeca	dundeco	F
+dundecos	dundeco	P
+dundo	dundo	O
+dundas	dundo	FP
+dunda	dundo	F
+dundos	dundo	P

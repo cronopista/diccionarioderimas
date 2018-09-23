@@ -1,0 +1,11 @@
+tez	tez	O
+tezado	tezado	O
+tezadas	tezado	FP
+tezada	tezado	F
+tezados	tezado	P
+tezcucano	tezcucano	O
+tezcucanas	tezcucano	FP
+tezcucana	tezcucano	F
+tezcucanos	tezcucano	P
+tezontle	tezontle	O
+tezontles	tezontle	P

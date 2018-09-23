@@ -1,0 +1,4 @@
+fovismo	fovismo	O
+fovismos	fovismo	P
+fóvea	fóvea	O
+fóveas	fóvea	P

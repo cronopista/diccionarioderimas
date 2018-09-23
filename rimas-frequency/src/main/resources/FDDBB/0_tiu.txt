@@ -1,0 +1,4 @@
+tiufado	tiufado	O
+tiufados	tiufado	P
+tiuque	tiuque	O
+tiuques	tiuque	P

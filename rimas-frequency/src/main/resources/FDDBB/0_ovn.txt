@@ -1,0 +1,2 @@
+ovni	ovni	O
+ovnis	ovni	P

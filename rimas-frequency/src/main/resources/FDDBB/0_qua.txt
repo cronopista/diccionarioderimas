@@ -1,0 +1,5 @@
+quark	quark	O
+quarkes	quark	P
+quásar	quásar	O
+quásares	quásar	P
+quáter	quáter	O

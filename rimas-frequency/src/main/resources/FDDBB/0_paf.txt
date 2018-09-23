@@ -1,0 +1,8 @@
+paf	paf	O
+pafes	paf	P
+pafio	pafio	O
+pafias	pafio	FP
+pafia	pafio	F
+pafios	pafio	P
+paflón	paflón	O
+paflones	paflón	P

@@ -1,0 +1,16 @@
+ebulición	ebulición	O
+ebuliciones	ebulición	P
+ebullición	ebullición	O
+ebulliciones	ebullición	P
+ebulloscopia	ebulloscopia	O
+ebulloscopias	ebulloscopia	P
+ebullómetro	ebullómetro	O
+ebullómetros	ebullómetro	P
+eburnación	eburnación	O
+eburnaciones	eburnación	P
+eburno	eburno	O
+eburnos	eburno	P
+ebúrneo	ebúrneo	O
+ebúrneas	ebúrneo	FP
+ebúrnea	ebúrneo	F
+ebúrneos	ebúrneo	P

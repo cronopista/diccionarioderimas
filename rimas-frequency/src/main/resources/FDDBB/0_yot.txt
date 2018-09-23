@@ -1,0 +1,4 @@
+yotaleño	yotaleño	O
+yotaleñas	yotaleño	FP
+yotaleña	yotaleño	F
+yotaleños	yotaleño	P

@@ -1,0 +1,16 @@
+avucasta	avucasta	O
+avucastas	avucasta	P
+avucastro	avucastro	O
+avucastros	avucastro	P
+avugo	avugo	O
+avugos	avugo	P
+avuguero	avuguero	O
+avugueros	avuguero	P
+avulsión	avulsión	O
+avulsiones	avulsión	P
+avutarda	avutarda	O
+avutardas	avutarda	P
+avutardado	avutardado	O
+avutardadas	avutardado	FP
+avutardada	avutardado	F
+avutardados	avutardado	P

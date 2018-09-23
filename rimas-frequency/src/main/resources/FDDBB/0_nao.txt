@@ -1,0 +1,6 @@
+nao	nao	O
+naos	nao	P
+naonato	naonato	O
+naonatas	naonato	FP
+naonata	naonato	F
+naonatos	naonato	P

@@ -1,0 +1,8 @@
+elzevir	elzevir	O
+elzevires	elzevir	P
+elzeviriano	elzeviriano	O
+elzevirianas	elzeviriano	FP
+elzeviriana	elzeviriano	F
+elzevirianos	elzeviriano	P
+elzevirio	elzevirio	O
+elzevirios	elzevirio	P

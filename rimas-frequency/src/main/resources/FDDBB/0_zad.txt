@@ -1,0 +1,4 @@
+zade	zade	O
+zades	zade	P
+zadorija	zadorija	O
+zadorijas	zadorija	P

@@ -1,0 +1,4 @@
+uliginoso	uliginoso	O
+uliginosas	uliginoso	FP
+uliginosa	uliginoso	F
+uliginosos	uliginoso	P

@@ -1,0 +1,6 @@
+maorí	maorí	O
+maoríes	maorí	P
+maoísmo	maoísmo	O
+maoísmos	maoísmo	P
+maoísta	maoísta	O
+maoístas	maoísta	P
