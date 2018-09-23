@@ -1,5 +1,0 @@
-dij	dij	O
-dijes	dij	P
-dije	dije	O
-dijes	dije	P
-dijes	dijes	O

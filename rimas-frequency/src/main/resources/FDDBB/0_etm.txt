@@ -1,3 +1,0 @@
-etmoidal	etmoidal	O
-etmoidales	etmoidal	P
-etmoides	etmoides	O

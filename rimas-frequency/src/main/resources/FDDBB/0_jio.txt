@@ -1,6 +1,0 @@
-jiote	jiote	O
-jiotes	jiote	P
-jiotoso	jiotoso	O
-jiotosas	jiotoso	FP
-jiotosa	jiotoso	F
-jiotosos	jiotoso	P

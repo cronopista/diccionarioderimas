@@ -1,4 +1,0 @@
-uzbeko	uzbeko	O
-uzbekas	uzbeko	FP
-uzbeka	uzbeko	F
-uzbekos	uzbeko	P

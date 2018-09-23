@@ -1,4 +1,0 @@
-naque	naque	O
-naques	naque	P
-ñaque	ñaque	O
-ñaques	ñaque	P

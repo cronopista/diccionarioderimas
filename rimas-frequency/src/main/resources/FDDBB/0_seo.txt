@@ -1,9 +1,0 @@
-seo	seo	O
-seos	seo	P
-seor	seor	O
-seoras	seor	FP
-seora	seor	F
-seores	seor	P
-seó	seó	O
-seós	seó	P
-seos	ser	VMPE

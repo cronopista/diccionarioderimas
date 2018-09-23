@@ -1,4 +1,0 @@
-lopigia	lopigia	O
-lopigias	lopigia	P
-lopista	lopista	O
-lopistas	lopista	P

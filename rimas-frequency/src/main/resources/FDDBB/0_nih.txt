@@ -1,6 +1,0 @@
-nihilidad	nihilidad	O
-nihilidades	nihilidad	P
-nihilismo	nihilismo	O
-nihilismos	nihilismo	P
-nihilista	nihilista	O
-nihilistas	nihilista	P

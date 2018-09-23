@@ -1,6 +1,0 @@
-eugenesia	eugenesia	O
-eugenesias	eugenesia	P
-eugenésico	eugenésico	O
-eugenésicas	eugenésico	FP
-eugenésica	eugenésico	F
-eugenésicos	eugenésico	P

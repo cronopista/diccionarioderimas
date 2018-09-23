@@ -1,4 +1,0 @@
-uso	uso	O
-usos	uso	P
-uso	usar	VIP1
-usó	usar	VIX3

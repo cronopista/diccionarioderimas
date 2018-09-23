@@ -1,4 +1,0 @@
-vikingo	vikingo	O
-vikingas	vikingo	FP
-vikinga	vikingo	F
-vikingos	vikingo	P

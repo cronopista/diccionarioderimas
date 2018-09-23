@@ -1,4 +1,0 @@
-yen	yen	O
-yenes	yen	P
-yente	yente	O
-yentes	yente	P

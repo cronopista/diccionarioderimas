@@ -1,8 +1,0 @@
-axoideo	axoideo	O
-axoideas	axoideo	FP
-axoidea	axoideo	F
-axoideos	axoideo	P
-axonometría	axonometría	O
-axonometrías	axonometría	P
-axón	axón	O
-axones	axón	P

@@ -1,8 +1,0 @@
-tojal	tojal	O
-tojales	tojal	P
-tojino	tojino	O
-tojinos	tojino	P
-tojo	tojo	O
-tojos	tojo	P
-tojosita	tojosita	O
-tojositas	tojosita	P

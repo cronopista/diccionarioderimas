@@ -1,4 +1,0 @@
-puf	puf	O
-pufes	puf	P
-pufo	pufo	O
-pufos	pufo	P

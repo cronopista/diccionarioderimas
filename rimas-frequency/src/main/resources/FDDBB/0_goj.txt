@@ -1,2 +1,0 @@
-goja	goja	O
-gojas	goja	P

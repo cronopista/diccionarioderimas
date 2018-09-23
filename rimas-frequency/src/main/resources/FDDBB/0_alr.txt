@@ -1,7 +1,0 @@
-alrededor	alrededor	O
-alrevesado	alrevesado	O
-alrevesadas	alrevesado	FP
-alrevesada	alrevesado	F
-alrevesados	alrevesado	P
-alrota	alrota	O
-alrotas	alrota	P

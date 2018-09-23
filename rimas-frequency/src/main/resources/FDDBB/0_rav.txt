@@ -1,6 +1,0 @@
-ravenala	ravenala	O
-ravenalas	ravenala	P
-ravenés	ravenés	O
-ravenesas	ravenés	FP
-ravenesa	ravenés	F
-raveneses	ravenés	P

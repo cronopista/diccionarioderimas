@@ -1,4 +1,0 @@
-buxáceo	buxáceo	O
-buxáceas	buxáceo	FP
-buxácea	buxáceo	F
-buxáceos	buxáceo	P

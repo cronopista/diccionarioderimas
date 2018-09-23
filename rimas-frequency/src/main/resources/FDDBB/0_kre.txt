@@ -1,8 +1,0 @@
-kremlin	kremlin	O
-kremlines	kremlin	P
-kremlinología	kremlinología	O
-kremlinologías	kremlinología	P
-kremlinólogo	kremlinólogo	O
-kremlinólogas	kremlinólogo	FP
-kremlinóloga	kremlinólogo	F
-kremlinólogos	kremlinólogo	P

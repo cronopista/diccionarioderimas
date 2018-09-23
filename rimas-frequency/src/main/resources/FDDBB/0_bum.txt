@@ -1,6 +1,0 @@
-bumangués	bumangués	O
-bumanguesas	bumangués	FP
-bumanguesa	bumangués	F
-bumangueses	bumangués	P
-bumerán	bumerán	O
-bumeranes	bumerán	P

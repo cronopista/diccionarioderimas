@@ -1,6 +1,0 @@
-tehuano	tehuano	O
-tehuanas	tehuano	FP
-tehuana	tehuano	F
-tehuanos	tehuano	P
-tehuelche	tehuelche	O
-tehuelches	tehuelche	P

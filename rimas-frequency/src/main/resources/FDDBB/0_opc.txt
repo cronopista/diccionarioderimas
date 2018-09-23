@@ -1,4 +1,0 @@
-opcional	opcional	O
-opcionales	opcional	P
-opción	opción	O
-opciones	opción	P

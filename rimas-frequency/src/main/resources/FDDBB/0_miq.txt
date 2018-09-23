@@ -1,5 +1,0 @@
-miquelete	miquelete	O
-miqueletes	miquelete	P
-miquero	miquero	O
-miqueros	miquero	P
-miquis	miquis	O

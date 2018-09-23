@@ -1,6 +1,0 @@
-ulaga	ulaga	O
-ulagas	ulaga	P
-ulala	ulala	O
-ulalas	ulala	P
-ulano	ulano	O
-ulanos	ulano	P

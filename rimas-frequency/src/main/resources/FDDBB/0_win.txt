@@ -1,6 +1,0 @@
-windsurf	windsurf	O
-windsurfes	windsurf	P
-windsurfing	windsurfing	O
-windsurfinges	windsurfing	P
-windsurfista	windsurfista	O
-windsurfistas	windsurfista	P

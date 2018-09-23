@@ -1,5 +1,0 @@
-faos	far	VMPE
-fáoslo	far	VMMSE
-fáoslos	far	VMMPE
-fáosla	far	VMFSE
-fáoslas	far	VMFPE

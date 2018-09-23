@@ -1,6 +1,0 @@
-bivalente	bivalente	O
-bivalentes	bivalente	P
-bivalvo	bivalvo	O
-bivalvas	bivalvo	FP
-bivalva	bivalvo	F
-bivalvos	bivalvo	P

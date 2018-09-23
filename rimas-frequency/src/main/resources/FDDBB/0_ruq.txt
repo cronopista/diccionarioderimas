@@ -1,8 +1,0 @@
-ruqueta	ruqueta	O
-ruquetas	ruqueta	P
-ruqué	rucar	VIX1
-ruque	rucar	VSP1
-ruques	rucar	VSP2
-ruquemos	rucar	VSP4
-ruquéis	rucar	VSP5
-ruquen	rucar	VSP6

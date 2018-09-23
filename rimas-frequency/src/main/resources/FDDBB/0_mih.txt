@@ -1,2 +1,0 @@
-mihrab	mihrab	O
-mihrabes	mihrab	P

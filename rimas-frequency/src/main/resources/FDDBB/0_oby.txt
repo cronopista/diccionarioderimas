@@ -1,4 +1,0 @@
-obyecto	obyecto	O
-obyectas	obyecto	FP
-obyecta	obyecto	F
-obyectos	obyecto	P

@@ -1,9 +1,0 @@
-gneis	gneis	O
-gnetáceo	gnetáceo	O
-gnetáceas	gnetáceo	FP
-gnetácea	gnetáceo	F
-gnetáceos	gnetáceo	P
-gnéisico	gnéisico	O
-gnéisicas	gnéisico	FP
-gnéisica	gnéisico	F
-gnéisicos	gnéisico	P

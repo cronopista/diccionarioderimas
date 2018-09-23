@@ -1,4 +1,0 @@
-duma	duma	O
-dumas	duma	P
-dumping	dumping	O
-dumpinges	dumping	P

@@ -1,6 +1,0 @@
-loxodromia	loxodromia	O
-loxodromias	loxodromia	P
-loxodrómico	loxodrómico	O
-loxodrómicas	loxodrómico	FP
-loxodrómica	loxodrómico	F
-loxodrómicos	loxodrómico	P

@@ -1,8 +1,0 @@
-ciquibaile	ciquibaile	O
-ciquibailes	ciquibaile	P
-ciquiricata	ciquiricata	O
-ciquiricatas	ciquiricata	P
-ciquitraque	ciquitraque	O
-ciquitraques	ciquitraque	P
-ciquitroque	ciquitroque	O
-ciquitroques	ciquitroque	P

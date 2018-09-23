@@ -1,4 +1,0 @@
-aeda	aeda	O
-aedas	aeda	P
-aedo	aedo	O
-aedos	aedo	P

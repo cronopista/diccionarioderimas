@@ -1,4 +1,0 @@
-kit	kit	O
-kites	kit	P
-kitsch	kitsch	O
-kitsches	kitsch	P

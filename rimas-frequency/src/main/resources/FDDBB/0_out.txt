@@ -1,2 +1,0 @@
-output	output	O
-outputes	output	P

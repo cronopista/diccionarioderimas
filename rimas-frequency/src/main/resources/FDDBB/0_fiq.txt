@@ -1,8 +1,0 @@
-fique	fique	O
-fiques	fique	P
-fiqué	ficar	VIX1
-fique	ficar	VSP1
-fiques	ficar	VSP2
-fiquemos	ficar	VSP4
-fiquéis	ficar	VSP5
-fiquen	ficar	VSP6

@@ -1,7 +1,0 @@
-kerigma	kerigma	O
-kerigmas	kerigma	P
-kermes	kermes	O
-kermés	kermés	O
-kermeses	kermés	P
-keroseno	keroseno	O
-kerosenos	keroseno	P

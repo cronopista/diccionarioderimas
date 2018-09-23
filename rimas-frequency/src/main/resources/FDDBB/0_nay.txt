@@ -1,6 +1,0 @@
-nayarita	nayarita	O
-nayaritas	nayarita	P
-nayuribe	nayuribe	O
-nayuribes	nayuribe	P
-náyade	náyade	O
-náyades	náyade	P

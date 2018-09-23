@@ -1,6 +1,0 @@
-mable	mable	O
-mables	mable	P
-mabolo	mabolo	O
-mabolos	mabolo	P
-mabí	mabí	O
-mabíes	mabí	P

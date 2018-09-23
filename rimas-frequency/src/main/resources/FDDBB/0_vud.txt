@@ -1,6 +1,0 @@
-vuduismo	vuduismo	O
-vuduismos	vuduismo	P
-vuduista	vuduista	O
-vuduistas	vuduista	P
-vudú	vudú	O
-vudúes	vudú	P

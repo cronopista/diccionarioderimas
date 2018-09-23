@@ -1,8 +1,0 @@
-osudo	osudo	O
-osudas	osudo	FP
-osuda	osudo	F
-osudos	osudo	P
-osuno	osuno	O
-osunas	osuno	FP
-osuna	osuno	F
-osunos	osuno	P

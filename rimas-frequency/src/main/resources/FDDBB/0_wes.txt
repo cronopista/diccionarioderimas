@@ -1,7 +1,0 @@
-wes	w	P
-western	western	O
-westernes	western	P
-westfaliano	westfaliano	O
-westfalianas	westfaliano	FP
-westfaliana	westfaliano	F
-westfalianos	westfaliano	P

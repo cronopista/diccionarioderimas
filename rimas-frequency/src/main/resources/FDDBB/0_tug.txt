@@ -1,4 +1,0 @@
-tugiense	tugiense	O
-tugienses	tugiense	P
-tugurio	tugurio	O
-tugurios	tugurio	P

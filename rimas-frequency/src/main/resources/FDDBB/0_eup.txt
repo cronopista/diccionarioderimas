@@ -1,8 +1,0 @@
-eupatorio	eupatorio	O
-eupatorios	eupatorio	P
-eupepsia	eupepsia	O
-eupepsias	eupepsia	P
-eupéptico	eupéptico	O
-eupépticas	eupéptico	FP
-eupéptica	eupéptico	F
-eupépticos	eupéptico	P

@@ -1,6 +1,0 @@
-yaya	yaya	O
-yayas	yaya	P
-yayo	yayo	O
-yayas	yayo	FP
-yaya	yayo	F
-yayos	yayo	P

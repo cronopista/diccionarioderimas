@@ -1,8 +1,0 @@
-deodara	deodara	O
-deodaras	deodara	P
-deontología	deontología	O
-deontologías	deontología	P
-deontológico	deontológico	O
-deontológicas	deontológico	FP
-deontológica	deontológico	F
-deontológicos	deontológico	P

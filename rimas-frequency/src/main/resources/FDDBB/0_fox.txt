@@ -1,4 +1,0 @@
-foxino	foxino	O
-foxinos	foxino	P
-foxterrier	foxterrier	O
-foxterrieres	foxterrier	P

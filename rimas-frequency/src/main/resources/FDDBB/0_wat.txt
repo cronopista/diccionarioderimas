@@ -1,6 +1,0 @@
-waterpolista	waterpolista	O
-waterpolistas	waterpolista	P
-waterpolo	waterpolo	O
-waterpolos	waterpolo	P
-watt	watt	O
-wattes	watt	P

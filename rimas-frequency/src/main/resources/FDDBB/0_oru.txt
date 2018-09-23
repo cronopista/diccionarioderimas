@@ -1,8 +1,0 @@
-oruga	oruga	O
-orugas	oruga	P
-orujo	orujo	O
-orujos	orujo	P
-orureño	orureño	O
-orureñas	orureño	FP
-orureña	orureño	F
-orureños	orureño	P

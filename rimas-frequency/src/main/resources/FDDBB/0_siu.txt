@@ -1,8 +1,0 @@
-siutiquería	siutiquería	O
-siutiquerías	siutiquería	P
-siútico	siútico	O
-siúticas	siútico	FP
-siútica	siútico	F
-siúticos	siútico	P
-síu	síu	O
-síus	síu	P

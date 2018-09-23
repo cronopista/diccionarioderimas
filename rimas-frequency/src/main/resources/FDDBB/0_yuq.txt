@@ -1,8 +1,0 @@
-yuquero	yuquero	O
-yuqueras	yuquero	FP
-yuquera	yuquero	F
-yuqueros	yuquero	P
-yuquerí	yuquerí	O
-yuqueríes	yuquerí	P
-yuquilla	yuquilla	O
-yuquillas	yuquilla	P

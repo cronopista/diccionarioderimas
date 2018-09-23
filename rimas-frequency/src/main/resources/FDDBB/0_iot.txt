@@ -1,4 +1,0 @@
-iota	iota	O
-iotas	iota	P
-iotización	iotización	O
-iotizaciones	iotización	P

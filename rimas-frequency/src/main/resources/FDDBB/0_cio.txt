@@ -1,4 +1,0 @@
-cío	cío	O
-cíos	cío	P
-cío	ciar	VIP1
-ció	ciar	VIX3

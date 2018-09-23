@@ -1,6 +1,0 @@
-sponsor	sponsor	O
-sponsores	sponsor	P
-sport	sport	O
-sportes	sport	P
-spot	spot	O
-spotes	spot	P

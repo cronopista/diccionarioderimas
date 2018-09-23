@@ -1,8 +1,0 @@
-ozona	ozona	O
-ozonas	ozona	P
-ozono	ozono	O
-ozonos	ozono	P
-ozonosfera	ozonosfera	O
-ozonosferas	ozonosfera	P
-ozonómetro	ozonómetro	O
-ozonómetros	ozonómetro	P

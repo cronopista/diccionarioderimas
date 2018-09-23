@@ -1,7 +1,0 @@
-elle	elle	O
-elles	elle	P
-ello	ello	O
-ellos	ello	P
-ellos	ellos	O
-ellosas	ellos	FP
-ellosa	ellos	F

@@ -1,4 +1,0 @@
-fe	fe	O
-fe	fer	VIP3
-fé	far	VIX1
-fe	far	VSP1

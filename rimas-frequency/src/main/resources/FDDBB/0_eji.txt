@@ -1,4 +1,0 @@
-ejido	ejido	O
-ejidos	ejido	P
-ejión	ejión	O
-ejiones	ejión	P

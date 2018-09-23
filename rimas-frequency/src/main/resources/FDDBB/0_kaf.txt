@@ -1,4 +1,0 @@
-kafkiano	kafkiano	O
-kafkianas	kafkiano	FP
-kafkiana	kafkiano	F
-kafkianos	kafkiano	P

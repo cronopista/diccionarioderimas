@@ -1,4 +1,0 @@
-dahir	dahir	O
-dahires	dahir	P
-dahír	dahír	O
-dahíres	dahír	P

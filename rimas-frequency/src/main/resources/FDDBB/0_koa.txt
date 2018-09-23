@@ -1,2 +1,0 @@
-koala	koala	O
-koalas	koala	P

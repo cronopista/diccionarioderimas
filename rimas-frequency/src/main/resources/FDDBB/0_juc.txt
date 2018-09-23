@@ -1,8 +1,0 @@
-juco	juco	O
-jucas	juco	FP
-juca	juco	F
-jucos	juco	P
-jucó	jucó	O
-jucós	jucó	P
-júcaro	júcaro	O
-júcaros	júcaro	P

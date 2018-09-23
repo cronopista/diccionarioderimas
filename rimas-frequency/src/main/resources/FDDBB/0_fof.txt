@@ -1,4 +1,0 @@
-fofo	fofo	O
-fofas	fofo	FP
-fofa	fofo	F
-fofos	fofo	P

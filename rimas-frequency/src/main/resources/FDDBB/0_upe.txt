@@ -1,6 +1,0 @@
-upé	upar	VIX1
-upe	upar	VSP1
-upes	upar	VSP2
-upemos	upar	VSP4
-upéis	upar	VSP5
-upen	upar	VSP6

@@ -1,2 +1,0 @@
-ceviche	ceviche	O
-ceviches	ceviche	P

@@ -1,4 +1,0 @@
-oda	oda	O
-odas	oda	P
-odalisca	odalisca	O
-odaliscas	odalisca	P

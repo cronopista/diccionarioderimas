@@ -1,4 +1,0 @@
-aiquileño	aiquileño	O
-aiquileñas	aiquileño	FP
-aiquileña	aiquileño	F
-aiquileños	aiquileño	P

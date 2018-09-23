@@ -1,4 +1,0 @@
-illa	illa	O
-illo	illo	O
-illas	illo	FP
-illa	illo	F

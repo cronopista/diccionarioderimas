@@ -1,2 +1,0 @@
-sake	sake	O
-sakes	sake	P

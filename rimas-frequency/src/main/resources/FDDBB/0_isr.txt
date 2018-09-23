@@ -1,8 +1,0 @@
-israelita	israelita	O
-israelitas	israelita	P
-israelí	israelí	O
-israelíes	israelí	P
-israelítico	israelítico	O
-israelíticas	israelítico	FP
-israelítica	israelítico	F
-israelíticos	israelítico	P

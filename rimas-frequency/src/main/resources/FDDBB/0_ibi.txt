@@ -1,8 +1,0 @@
-ibicenco	ibicenco	O
-ibicencas	ibicenco	FP
-ibicenca	ibicenco	F
-ibicencos	ibicenco	P
-ibis	ibis	O
-ibídem	ibídem	O
-íbice	íbice	O
-íbices	íbice	P

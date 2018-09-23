@@ -1,8 +1,0 @@
-nulamente	nulamente	O
-nulidad	nulidad	O
-nulidades	nulidad	P
-nullíus	nullíus	O
-nulo	nulo	O
-nulas	nulo	FP
-nula	nulo	F
-nulos	nulo	P

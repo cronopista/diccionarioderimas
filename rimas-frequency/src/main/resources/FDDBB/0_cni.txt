@@ -1,2 +1,0 @@
-cnidario	cnidario	O
-cnidarios	cnidario	P

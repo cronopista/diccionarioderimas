@@ -1,4 +1,0 @@
-hafiz	hafiz	O
-hafices	hafiz	P
-hafnio	hafnio	O
-hafnios	hafnio	P

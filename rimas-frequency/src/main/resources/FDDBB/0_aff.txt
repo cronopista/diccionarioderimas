@@ -1,4 +1,0 @@
-affaire	affaire	O
-affaires	affaire	P
-affidávit	affidávit	O
-affidávites	affidávit	P

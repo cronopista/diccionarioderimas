@@ -1,4 +1,0 @@
-iatrogénico	iatrogénico	O
-iatrogénicas	iatrogénico	FP
-iatrogénica	iatrogénico	F
-iatrogénicos	iatrogénico	P

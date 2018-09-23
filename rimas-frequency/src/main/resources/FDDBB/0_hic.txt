@@ -1,6 +1,0 @@
-hicaco	hicaco	O
-hicacos	hicaco	P
-hico	hico	O
-hicos	hico	P
-hicotea	hicotea	O
-hicoteas	hicotea	P

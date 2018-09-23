@@ -1,4 +1,0 @@
-heurístico	heurístico	O
-heurísticas	heurístico	FP
-heurística	heurístico	F
-heurísticos	heurístico	P

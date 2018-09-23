@@ -1,4 +1,0 @@
-buque	buque	O
-buques	buque	P
-buqué	buqué	O
-buqués	buqué	P

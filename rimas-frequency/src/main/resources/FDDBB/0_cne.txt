@@ -1,4 +1,0 @@
-cneoráceo	cneoráceo	O
-cneoráceas	cneoráceo	FP
-cneorácea	cneoráceo	F
-cneoráceos	cneoráceo	P

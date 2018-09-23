@@ -1,8 +1,0 @@
-bija	bija	O
-bijas	bija	P
-bijagua	bijagua	O
-bijaguas	bijagua	P
-bijao	bijao	O
-bijaos	bijao	P
-bijol	bijol	O
-bijoles	bijol	P

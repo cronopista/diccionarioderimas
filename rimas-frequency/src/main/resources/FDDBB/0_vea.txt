@@ -1,5 +1,0 @@
-vea	veer	VSP1
-veas	veer	VSP2
-veamos	veer	VSP4
-veáis	veer	VSP5
-vean	veer	VSP6

@@ -1,4 +1,0 @@
-sionismo	sionismo	O
-sionismos	sionismo	P
-sionista	sionista	O
-sionistas	sionista	P

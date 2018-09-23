@@ -1,4 +1,0 @@
-omagua	omagua	O
-omaguas	omagua	P
-omaso	omaso	O
-omasos	omaso	P

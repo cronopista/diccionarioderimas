@@ -1,5 +1,0 @@
-fealdad	fealdad	O
-fealdades	fealdad	P
-feamente	feamente	O
-feas	feo	FP
-fea	feo	F

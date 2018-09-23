@@ -1,6 +1,0 @@
-tuya	tuya	O
-tuyas	tuya	P
-tuyo	tuyo	O
-tuyas	tuyo	FP
-tuya	tuyo	F
-tuyos	tuyo	P

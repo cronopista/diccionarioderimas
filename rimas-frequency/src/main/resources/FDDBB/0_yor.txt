@@ -1,4 +1,0 @@
-yoreño	yoreño	O
-yoreñas	yoreño	FP
-yoreña	yoreño	F
-yoreños	yoreño	P

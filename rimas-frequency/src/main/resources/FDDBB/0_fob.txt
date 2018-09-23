@@ -1,6 +1,0 @@
-fobia	fobia	O
-fobias	fobia	P
-fóbico	fóbico	O
-fóbicas	fóbico	FP
-fóbica	fóbico	F
-fóbicos	fóbico	P

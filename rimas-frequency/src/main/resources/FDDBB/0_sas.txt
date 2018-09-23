@@ -1,8 +1,0 @@
-sasafrás	sasafrás	O
-sasafrases	sasafrás	P
-sastre	sastre	O
-sastres	sastre	P
-sastrería	sastrería	O
-sastrerías	sastrería	P
-sasánida	sasánida	O
-sasánidas	sasánida	P

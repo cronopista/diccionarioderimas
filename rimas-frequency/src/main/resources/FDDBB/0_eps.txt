@@ -1,4 +1,0 @@
-epsomita	epsomita	O
-epsomitas	epsomita	P
-épsilon	épsilon	O
-épsilones	épsilon	P

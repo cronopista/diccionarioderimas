@@ -1,4 +1,0 @@
-ucubitano	ucubitano	O
-ucubitanas	ucubitano	FP
-ucubitana	ucubitano	F
-ucubitanos	ucubitano	P

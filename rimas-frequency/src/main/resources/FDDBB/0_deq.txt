@@ -1,4 +1,0 @@
-deque	deque	O
-deques	deque	P
-dequeísmo	dequeísmo	O
-dequeísmos	dequeísmo	P

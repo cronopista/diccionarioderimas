@@ -1,4 +1,0 @@
-buaro	buaro	O
-buaros	buaro	P
-búa	búa	O
-búas	búa	P

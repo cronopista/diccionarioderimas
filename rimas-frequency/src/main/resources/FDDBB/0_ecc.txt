@@ -1,8 +1,0 @@
-eccehomo	eccehomo	O
-eccehomos	eccehomo	P
-eccema	eccema	O
-eccemas	eccema	P
-eccematoso	eccematoso	O
-eccematosas	eccematoso	FP
-eccematosa	eccematoso	F
-eccematosos	eccematoso	P

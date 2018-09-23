@@ -1,6 +1,0 @@
-newton	newton	O
-newtones	newton	P
-newtoniano	newtoniano	O
-newtonianas	newtoniano	FP
-newtoniana	newtoniano	F
-newtonianos	newtoniano	P

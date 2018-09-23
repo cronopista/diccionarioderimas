@@ -1,4 +1,0 @@
-kurdo	kurdo	O
-kurdas	kurdo	FP
-kurda	kurdo	F
-kurdos	kurdo	P

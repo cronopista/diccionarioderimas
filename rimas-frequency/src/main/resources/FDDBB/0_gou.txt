@@ -1,2 +1,0 @@
-gourmet	gourmet	O
-gourmetes	gourmet	P

@@ -1,4 +1,0 @@
-vihuela	vihuela	O
-vihuelas	vihuela	P
-vihuelista	vihuelista	O
-vihuelistas	vihuelista	P

@@ -1,4 +1,0 @@
-uvular	uvular	O
-uvulares	uvular	P
-úvula	úvula	O
-úvulas	úvula	P

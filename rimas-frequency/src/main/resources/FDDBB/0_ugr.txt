@@ -1,6 +1,0 @@
-ugre	ugre	O
-ugres	ugre	P
-ugrofinés	ugrofinés	O
-ugrofinesas	ugrofinés	FP
-ugrofinesa	ugrofinés	F
-ugrofineses	ugrofinés	P

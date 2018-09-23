@@ -1,8 +1,0 @@
-utensilio	utensilio	O
-utensilios	utensilio	P
-uterino	uterino	O
-uterinas	uterino	FP
-uterina	uterino	F
-uterinos	uterino	P
-útero	útero	O
-úteros	útero	P

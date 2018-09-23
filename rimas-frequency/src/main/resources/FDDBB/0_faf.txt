@@ -1,4 +1,0 @@
-fafarachero	fafarachero	O
-fafaracheras	fafarachero	FP
-fafarachera	fafarachero	F
-fafaracheros	fafarachero	P

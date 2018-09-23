@@ -1,8 +1,0 @@
-dozavado	dozavado	O
-dozavadas	dozavado	FP
-dozavada	dozavado	F
-dozavados	dozavado	P
-dozavo	dozavo	O
-dozavas	dozavo	FP
-dozava	dozavo	F
-dozavos	dozavo	P

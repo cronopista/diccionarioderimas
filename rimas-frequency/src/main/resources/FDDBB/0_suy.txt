@@ -1,4 +1,0 @@
-suyo	suyo	O
-suyas	suyo	FP
-suya	suyo	F
-suyos	suyo	P

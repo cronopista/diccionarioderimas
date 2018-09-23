@@ -1,2 +1,0 @@
-ogro	ogro	O
-ogros	ogro	P

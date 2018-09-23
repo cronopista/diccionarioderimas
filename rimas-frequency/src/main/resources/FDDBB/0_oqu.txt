@@ -1,8 +1,0 @@
-oque	oque	O
-oques	oque	P
-oquedad	oquedad	O
-oquedades	oquedad	P
-oquedal	oquedal	O
-oquedales	oquedal	P
-oqueruela	oqueruela	O
-oqueruelas	oqueruela	P

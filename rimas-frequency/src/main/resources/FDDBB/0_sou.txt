@@ -1,4 +1,0 @@
-soufflé	soufflé	O
-soufflés	soufflé	P
-souvenir	souvenir	O
-souvenires	souvenir	P

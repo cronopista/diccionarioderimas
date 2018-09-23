@@ -1,8 +1,0 @@
-ufo	ufo	O
-ufos	ufo	P
-ufología	ufología	O
-ufologías	ufología	P
-ufólogo	ufólogo	O
-ufólogas	ufólogo	FP
-ufóloga	ufólogo	F
-ufólogos	ufólogo	P

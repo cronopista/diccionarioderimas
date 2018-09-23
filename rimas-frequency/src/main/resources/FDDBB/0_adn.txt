@@ -1,8 +1,0 @@
-adnado	adnado	O
-adnadas	adnado	FP
-adnada	adnado	F
-adnados	adnado	P
-adnato	adnato	O
-adnatas	adnato	FP
-adnata	adnato	F
-adnatos	adnato	P

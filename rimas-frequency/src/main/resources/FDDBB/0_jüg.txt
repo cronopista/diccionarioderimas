@@ -1,5 +1,0 @@
-jügue	jugar	VSP1
-jügues	jugar	VSP2
-jüguemos	jugar	VSP4
-jüguéis	jugar	VSP5
-jüguen	jugar	VSP6

@@ -1,4 +1,0 @@
-gaollo	gaollo	O
-gaollos	gaollo	P
-gaón	gaón	O
-gaones	gaón	P

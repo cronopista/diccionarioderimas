@@ -1,6 +1,0 @@
-wolfram	wolfram	O
-wolframes	wolfram	P
-wolframio	wolframio	O
-wolframios	wolframio	P
-wólfram	wólfram	O
-wólframes	wólfram	P

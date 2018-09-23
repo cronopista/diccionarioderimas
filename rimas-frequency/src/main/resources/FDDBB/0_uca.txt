@@ -1,2 +1,0 @@
-ucase	ucase	O
-ucases	ucase	P

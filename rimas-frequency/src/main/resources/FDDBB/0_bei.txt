@@ -1,9 +1,0 @@
-beicon	beicon	O
-beicones	beicon	P
-beige	beige	O
-beiges	beige	P
-beis	beis	O
-beisbolista	beisbolista	O
-beisbolistas	beisbolista	P
-béisbol	béisbol	O
-béisboles	béisbol	P

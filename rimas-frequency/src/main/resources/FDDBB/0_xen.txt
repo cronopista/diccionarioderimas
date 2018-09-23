@@ -1,8 +1,0 @@
-xenofobia	xenofobia	O
-xenofobias	xenofobia	P
-xenófobo	xenófobo	O
-xenófobas	xenófobo	FP
-xenófoba	xenófobo	F
-xenófobos	xenófobo	P
-xenón	xenón	O
-xenones	xenón	P

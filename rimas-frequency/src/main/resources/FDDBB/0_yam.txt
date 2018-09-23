@@ -1,8 +1,0 @@
-yamao	yamao	O
-yamaos	yamao	P
-yambo	yambo	O
-yambos	yambo	P
-yámbico	yámbico	O
-yámbicas	yámbico	FP
-yámbica	yámbico	F
-yámbicos	yámbico	P

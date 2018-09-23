@@ -1,4 +1,0 @@
-zeda	zeda	O
-zedas	zeda	P
-zedilla	zedilla	O
-zedillas	zedilla	P

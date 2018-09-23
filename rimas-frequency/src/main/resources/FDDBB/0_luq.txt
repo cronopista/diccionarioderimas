@@ -1,6 +1,0 @@
-luquete	luquete	O
-luquetes	luquete	P
-luqués	luqués	O
-luquesas	luqués	FP
-luquesa	luqués	F
-luqueses	luqués	P

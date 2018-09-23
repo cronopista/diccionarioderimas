@@ -1,8 +1,0 @@
-peuco	peuco	O
-peucos	peuco	P
-peucédano	peucédano	O
-peucédanos	peucédano	P
-peumo	peumo	O
-peumos	peumo	P
-peúco	peúco	O
-peúcos	peúco	P

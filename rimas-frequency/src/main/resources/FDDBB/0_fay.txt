@@ -1,8 +1,0 @@
-faya	faya	O
-fayas	faya	P
-fayado	fayado	O
-fayados	fayado	P
-fayanca	fayanca	O
-fayancas	fayanca	P
-fayuca	fayuca	O
-fayucas	fayuca	P

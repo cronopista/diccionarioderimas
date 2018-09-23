@@ -1,2 +1,0 @@
-coulomb	coulomb	O
-coulombes	coulomb	P

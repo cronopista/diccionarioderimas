@@ -1,2 +1,0 @@
-pseudo	pseudo	O
-pseudos	pseudo	P

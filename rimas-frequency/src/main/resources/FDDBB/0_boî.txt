@@ -1,2 +1,0 @@
-boîte	boîte	O
-boîtes	boîte	P

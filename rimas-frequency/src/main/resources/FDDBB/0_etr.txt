@@ -1,4 +1,0 @@
-etrusco	etrusco	O
-etruscas	etrusco	FP
-etrusca	etrusco	F
-etruscos	etrusco	P

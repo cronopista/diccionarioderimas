@@ -1,4 +1,0 @@
-wagneriano	wagneriano	O
-wagnerianas	wagneriano	FP
-wagneriana	wagneriano	F
-wagnerianos	wagneriano	P

@@ -1,4 +1,0 @@
-rouge	rouge	O
-rouges	rouge	P
-roulotte	roulotte	O
-roulottes	roulotte	P

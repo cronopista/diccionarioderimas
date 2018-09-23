@@ -1,8 +1,0 @@
-zueca	zueca	O
-zuecas	zueca	P
-zueco	zueco	O
-zuecas	zueco	FP
-zueca	zueco	F
-zuecos	zueco	P
-zuela	zuela	O
-zuelas	zuela	P

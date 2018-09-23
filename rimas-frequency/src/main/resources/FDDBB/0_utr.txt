@@ -1,8 +1,0 @@
-utrera	utrera	O
-utreras	utrera	P
-utrerano	utrerano	O
-utreranas	utrerano	FP
-utrerana	utrerano	F
-utreranos	utrerano	P
-utrero	utrero	O
-utreros	utrero	P

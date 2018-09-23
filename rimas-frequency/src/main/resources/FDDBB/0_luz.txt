@@ -1,7 +1,0 @@
-luz	luz	O
-luzco	lucir	VIP1
-luzca	lucir	VSP1
-luzcas	lucir	VSP2
-luzcamos	lucir	VSP4
-luzcáis	lucir	VSP5
-luzcan	lucir	VSP6

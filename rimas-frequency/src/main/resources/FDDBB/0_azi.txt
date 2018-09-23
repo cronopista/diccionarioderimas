@@ -1,6 +1,0 @@
-azimut	azimut	O
-azimutes	azimut	P
-azimutal	azimutal	O
-azimutales	azimutal	P
-ázimo	ázimo	O
-ázimos	ázimo	P

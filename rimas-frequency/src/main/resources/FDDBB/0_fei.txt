@@ -1,4 +1,0 @@
-feísmo	feísmo	O
-feísmos	feísmo	P
-féis	fer	VIP5
-féis	far	VSP5

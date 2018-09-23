@@ -1,6 +1,0 @@
-veo	veer	VIP1
-veos	ver	VMPE
-véoslo	ver	VMMSE
-véoslos	ver	VMMPE
-véosla	ver	VMFSE
-véoslas	ver	VMFPE

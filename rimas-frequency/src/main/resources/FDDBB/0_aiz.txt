@@ -1,6 +1,0 @@
-aizcolari	aizcolari	O
-aizcolaris	aizcolari	P
-aizoáceo	aizoáceo	O
-aizoáceas	aizoáceo	FP
-aizoácea	aizoáceo	F
-aizoáceos	aizoáceo	P

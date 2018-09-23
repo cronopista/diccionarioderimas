@@ -1,6 +1,0 @@
-cudicia	cudicia	O
-cudicias	cudicia	P
-cudrío	cudrío	O
-cudrías	cudrío	FP
-cudría	cudrío	F
-cudríos	cudrío	P

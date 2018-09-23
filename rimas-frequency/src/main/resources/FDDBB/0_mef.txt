@@ -1,8 +1,0 @@
-mefistofélico	mefistofélico	O
-mefistofélicas	mefistofélico	FP
-mefistofélica	mefistofélico	F
-mefistofélicos	mefistofélico	P
-mefítico	mefítico	O
-mefíticas	mefítico	FP
-mefítica	mefítico	F
-mefíticos	mefítico	P

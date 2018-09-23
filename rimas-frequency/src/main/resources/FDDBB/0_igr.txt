@@ -1,2 +1,0 @@
-igreja	igreja	O
-igrejas	igreja	P

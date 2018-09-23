@@ -1,4 +1,0 @@
-jelengue	jelengue	O
-jelengues	jelengue	P
-jeliz	jeliz	O
-jelices	jeliz	P

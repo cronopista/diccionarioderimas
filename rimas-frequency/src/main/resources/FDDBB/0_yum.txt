@@ -1,4 +1,0 @@
-yumbo	yumbo	O
-yumbas	yumbo	FP
-yumba	yumbo	F
-yumbos	yumbo	P

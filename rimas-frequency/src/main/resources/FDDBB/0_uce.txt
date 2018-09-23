@@ -1,6 +1,0 @@
-uced	uced	O
-ucedes	uced	P
-ucencia	ucencia	O
-ucencias	ucencia	P
-ucé	ucé	O
-ucés	ucé	P

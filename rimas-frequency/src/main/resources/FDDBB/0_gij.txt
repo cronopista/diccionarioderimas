@@ -1,6 +1,0 @@
-gijonense	gijonense	O
-gijonenses	gijonense	P
-gijonés	gijonés	O
-gijonesas	gijonés	FP
-gijonesa	gijonés	F
-gijoneses	gijonés	P

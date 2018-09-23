@@ -1,2 +1,0 @@
-soquete	soquete	O
-soquetes	soquete	P

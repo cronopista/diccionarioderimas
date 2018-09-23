@@ -1,4 +1,0 @@
-ojudo	ojudo	O
-ojudas	ojudo	FP
-ojuda	ojudo	F
-ojudos	ojudo	P

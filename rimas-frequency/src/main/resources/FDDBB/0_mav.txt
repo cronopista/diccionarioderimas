@@ -1,8 +1,0 @@
-mavacure	mavacure	O
-mavacures	mavacure	P
-mavorcio	mavorcio	O
-mavorcias	mavorcio	FP
-mavorcia	mavorcio	F
-mavorcios	mavorcio	P
-mavorte	mavorte	O
-mavortes	mavorte	P

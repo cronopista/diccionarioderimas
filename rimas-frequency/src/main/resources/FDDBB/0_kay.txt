@@ -1,2 +1,0 @@
-kayak	kayak	O
-kayakes	kayak	P

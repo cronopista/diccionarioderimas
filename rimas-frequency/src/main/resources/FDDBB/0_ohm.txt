@@ -1,8 +1,0 @@
-ohm	ohm	O
-ohmes	ohm	P
-ohmio	ohmio	O
-ohmios	ohmio	P
-óhmico	óhmico	O
-óhmicas	óhmico	FP
-óhmica	óhmico	F
-óhmicos	óhmico	P

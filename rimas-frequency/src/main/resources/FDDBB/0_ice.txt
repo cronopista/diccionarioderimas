@@ -1,8 +1,0 @@
-iceberg	iceberg	O
-iceberges	iceberg	P
-icé	izar	VIX1
-ice	izar	VSP1
-ices	izar	VSP2
-icemos	izar	VSP4
-icéis	izar	VSP5
-icen	izar	VSP6

@@ -1,6 +1,0 @@
-egabrense	egabrense	O
-egabrenses	egabrense	P
-egarense	egarense	O
-egarenses	egarense	P
-egas	ego	FP
-ega	ego	F

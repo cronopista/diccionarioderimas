@@ -1,9 +1,0 @@
-ledamente	ledamente	O
-ledanía	ledanía	O
-ledanías	ledanía	P
-ledo	ledo	O
-ledas	ledo	FP
-leda	ledo	F
-ledos	ledo	P
-ledón	ledón	O
-ledones	ledón	P

@@ -1,4 +1,0 @@
-duque	duque	O
-duques	duque	P
-duquesa	duquesa	O
-duquesas	duquesa	P

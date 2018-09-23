@@ -1,4 +1,0 @@
-spray	spray	O
-sprayes	spray	P
-sprint	sprint	O
-sprintes	sprint	P

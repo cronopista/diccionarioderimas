@@ -1,6 +1,0 @@
-beudez	beudez	O
-beudeces	beudez	P
-beudo	beudo	O
-beudas	beudo	FP
-beuda	beudo	F
-beudos	beudo	P

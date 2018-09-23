@@ -1,4 +1,0 @@
-foiso	foiso	O
-foisas	foiso	FP
-foisa	foiso	F
-foisos	foiso	P

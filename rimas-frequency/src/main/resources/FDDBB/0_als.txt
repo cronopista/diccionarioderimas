@@ -1,6 +1,0 @@
-alsaciano	alsaciano	O
-alsacianas	alsaciano	FP
-alsaciana	alsaciano	F
-alsacianos	alsaciano	P
-álsine	álsine	O
-álsines	álsine	P

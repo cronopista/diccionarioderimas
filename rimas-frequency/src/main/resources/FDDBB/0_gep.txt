@@ -1,4 +1,0 @@
-gépido	gépido	O
-gépidas	gépido	FP
-gépida	gépido	F
-gépidos	gépido	P

@@ -1,2 +1,0 @@
-apnea	apnea	O
-apneas	apnea	P

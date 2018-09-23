@@ -1,2 +1,0 @@
-ulema	ulema	O
-ulemas	ulema	P

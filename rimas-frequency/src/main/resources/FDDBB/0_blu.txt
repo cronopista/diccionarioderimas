@@ -1,5 +1,0 @@
-blues	blues	O
-blusa	blusa	O
-blusas	blusa	P
-blusón	blusón	O
-blusones	blusón	P

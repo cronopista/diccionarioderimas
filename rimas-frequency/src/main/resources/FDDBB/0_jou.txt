@@ -1,2 +1,0 @@
-joule	joule	O
-joules	joule	P

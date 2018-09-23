@@ -1,6 +1,0 @@
-vexilología	vexilología	O
-vexilologías	vexilología	P
-vexilólogo	vexilólogo	O
-vexilólogas	vexilólogo	FP
-vexilóloga	vexilólogo	F
-vexilólogos	vexilólogo	P
