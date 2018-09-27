@@ -54,7 +54,7 @@ public class RhymeFinder {
 		char[] chars = word.toCharArray();
 		if (chars[0] == 'h' && chars.length > 1) {
 			if ((chars[1] != 'i' && chars[1] != 'u') || (chars[1] != 'i' && chars[1] != 'a' && chars[1] != 'e'
-					&& chars[1] != 'í' && chars[1] != 'á' && chars[1] != 'é'))
+					&& chars[1] != 'Ã­' && chars[1] != 'Ã¡' && chars[1] != 'Ã©'))
 				return true;
 			else
 				return false;
@@ -119,7 +119,7 @@ public class RhymeFinder {
 			boolean skip = false;
 			if (i == chars.length - 1 && oldTypes[i] == CONSONANT && oldTypes[i - 1] == CONSONANT)
 				skip = true;
-			if (chars[i] == 's' && chars[i - 1] == 'n' && i + 1 < chars.length && oldTypes[i + 1] == CONSONANT)// transformación
+			if (chars[i] == 's' && chars[i - 1] == 'n' && i + 1 < chars.length && oldTypes[i + 1] == CONSONANT)// transformaciÃ³n
 				skip = true;
 
 			if (chars[i] == 's' && chars[i - 1] == 'b' && i + 1 < chars.length && oldTypes[i + 1] == CONSONANT)// abstraigo
@@ -249,19 +249,19 @@ public class RhymeFinder {
 			// normalize rhyme
 			for (int i = accentLoc; i < chars.length; i++) {
 
-				if (chars[i] == 'á') {
+				if (chars[i] == 'Ã¡') {
 					rhymeB.append('a');
 					asonanceB.append('a');
-				} else if (chars[i] == 'é') {
+				} else if (chars[i] == 'Ã©') {
 					rhymeB.append('e');
 					asonanceB.append('e');
-				} else if (chars[i] == 'í') {
+				} else if (chars[i] == 'Ã­') {
 					rhymeB.append('i');
 					asonanceB.append('i');
-				} else if (chars[i] == 'ó') {
+				} else if (chars[i] == 'Ã³') {
 					rhymeB.append('o');
 					asonanceB.append('o');
-				} else if (chars[i] == 'ú') {
+				} else if (chars[i] == 'Ãº') {
 					rhymeB.append('u');
 					asonanceB.append('u');
 				} else if (chars[i] == 'v') {
@@ -301,33 +301,33 @@ public class RhymeFinder {
 	}
 
 	public static boolean isAnAccent(char c) {
-		if (c == 'á' || c == 'é' || c == 'í' || c == 'ó' || c == 'ú')
+		if (c == 'Ã¡' || c == 'Ã©' || c == 'Ã­' || c == 'Ã³' || c == 'Ãº')
 			return true;
 		return false;
 	}
 
 	public static boolean isVowel(char c) {
-		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'ü' || c == 'á' || c == 'é' || c == 'í'
-				|| c == 'ó' || c == 'ú')
+		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'Ã¼' || c == 'Ã¡' || c == 'Ã©' || c == 'Ã­'
+				|| c == 'Ã³' || c == 'Ãº')
 			return true;
 		return false;
 	}
 
 	public static boolean isVowelOrH(char c) {
-		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'ü' || c == 'á' || c == 'é' || c == 'í'
-				|| c == 'ó' || c == 'ú' || c == 'h')
+		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'Ã¼' || c == 'Ã¡' || c == 'Ã©' || c == 'Ã­'
+				|| c == 'Ã³' || c == 'Ãº' || c == 'h')
 			return true;
 		return false;
 	}
 
 	public static boolean isVowelNoAccent(char c) {
-		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'ü')
+		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'Ã¼')
 			return true;
 		return false;
 	}
 
 	public static boolean isWeak(char c) {
-		if (c == 'u' || c == 'i' || c == 'ü' || c == 'y')
+		if (c == 'u' || c == 'i' || c == 'Ã¼' || c == 'y')
 			return true;
 		return false;
 	}
@@ -381,19 +381,19 @@ public class RhymeFinder {
 
 		for (int i = 0; i < chars.length; i++) {
 
-			if (chars[i] == 'á') {
+			if (chars[i] == 'Ã¡') {
 				chars[i] = 'a';
-			} else if (chars[i] == 'é') {
+			} else if (chars[i] == 'Ã©') {
 				chars[i] = 'e';
-			} else if (chars[i] == 'í') {
+			} else if (chars[i] == 'Ã­') {
 				chars[i] = 'i';
-			} else if (chars[i] == 'ó') {
+			} else if (chars[i] == 'Ã³') {
 				chars[i] = 'o';
-			} else if (chars[i] == 'ú') {
+			} else if (chars[i] == 'Ãº') {
 				chars[i] = 'u';
-			} else if (chars[i] == 'ü') {
-				chars[i] = 'ü';
-			} else if (chars[i] == 'ñ') {
+			} else if (chars[i] == 'Ã¼') {
+				chars[i] = 'Ã¼';
+			} else if (chars[i] == 'Ã±') {
 				chars[i] = 'n';
 			}
 
@@ -402,7 +402,7 @@ public class RhymeFinder {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(new RhymeFinder("astrólogo").countSil());
+		System.out.println(new RhymeFinder("astrÃ³logo").countSil());
 	}
 
 }

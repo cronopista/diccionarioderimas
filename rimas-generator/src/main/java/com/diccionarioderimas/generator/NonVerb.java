@@ -55,9 +55,9 @@ public class NonVerb extends Word {
 	public void derivePlural() {
 		char last = word.charAt(word.length() - 1);
 
-		if (RhymeFinder.isVowelNoAccent(last) || last == 'á' || last == 'é' || last == 'ó')
+		if (RhymeFinder.isVowelNoAccent(last) || last == 'Ã¡' || last == 'Ã©' || last == 'Ã³')
 			wh.wordProduced(original, new StringBuilder(word).append('s').toString(),frequency,additionalType+"P",1);
-		else if (last == 'í' || last == 'ú')
+		else if (last == 'Ã­' || last == 'Ãº')
 			wh.wordProduced(original, new StringBuilder(word).append("es").toString(),frequency,additionalType+"P",1);
 		else {
 			boolean secAc = RhymeFinder.isAnAccent(getChar(word, -2));
@@ -88,7 +88,7 @@ public class NonVerb extends Word {
 	
 	
 	public static void main(String[] args) {
-		NonVerb nonVerb = new NonVerb("aragonés","AJN",new FakeWordHandler(),"aragonés",1);
+		NonVerb nonVerb = new NonVerb("aragonÃ©s","AJN",new FakeWordHandler(),"aragonÃ©s",1);
 		nonVerb.deriveGender();
 	}
 

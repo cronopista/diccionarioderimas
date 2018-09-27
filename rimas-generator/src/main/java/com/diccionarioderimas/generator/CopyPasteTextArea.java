@@ -30,7 +30,7 @@ import javax.swing.JPopupMenu;
 import javax.swing.JTextArea;
 
 /**
- * @author Eduardo Rodríguez
+ * @author Eduardo RodrÃ­guez
  *
  */
 public class CopyPasteTextArea extends JTextArea implements ActionListener,MouseListener{

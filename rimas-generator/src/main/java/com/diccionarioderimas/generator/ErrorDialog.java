@@ -35,7 +35,7 @@ import javax.swing.JLabel;
 import javax.swing.JScrollPane;
 
 /**
- * @author Eduardo Rodríguez
+ * @author Eduardo RodrÃ­guez
  * 
  */
 public class ErrorDialog extends JDialog implements ActionListener {
@@ -43,9 +43,9 @@ public class ErrorDialog extends JDialog implements ActionListener {
 	
 	private static final long serialVersionUID = -6886171185160146930L;
 	private static final String HEADER = "<html><b>Ha ocurrido un error imprevisto.</b><br/>"
-			+ "Por favor, contacta conmigo a través de <b>www.cronopista.com</b><br/>"
-			+ "o usando <b>Menú->Contacto...</b> y adjunta (copia y pega) el mensaje que aparece debajo<br/>"
-			+ "de estas líneas. Gracias.</html>";
+			+ "Por favor, contacta conmigo a travÃ©s de <b>www.cronopista.com</b><br/>"
+			+ "o usando <b>MenÃº->Contacto...</b> y adjunta (copia y pega) el mensaje que aparece debajo<br/>"
+			+ "de estas lÃ­neas. Gracias.</html>";
 	private JButton button = new JButton("OK");
 
 	public ErrorDialog(JFrame parent, Exception e) {
@@ -91,7 +91,7 @@ public class ErrorDialog extends JDialog implements ActionListener {
 	}
 
 	public static void main(String[] args) {
-		new ErrorDialog(null, new Exception("una excepción"));
+		new ErrorDialog(null, new Exception("una excepciÃ³n"));
 	}
 
 }

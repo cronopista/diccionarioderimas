@@ -81,7 +81,7 @@ public class Main extends JPanel implements WindowListener {
 	public Main(String[] args, String baseDir, boolean exit) throws Exception {
 
 		thisInstance = this;
-		UIManager.put("OptionPane.yesButtonText", "S�");
+		UIManager.put("OptionPane.yesButtonText", "Sí");
 		progressBar = new JProgressBar(0, 1708);
 		cwordLabel = new JLabel("Borrando base de datos anterior. Por favor, espere");
 		progressBar.setValue(0);
@@ -113,7 +113,8 @@ public class Main extends JPanel implements WindowListener {
 				JOptionPane.showMessageDialog(frame,
 						"El sistema no permite escribir en el directorio actual.\n"
 								+ "Se recomienda desinstalar el diccionario e instalarlo en un directorio\n"
-								+ "que no sea 'Archivos de Programa', como por ejemplo 'Mis documentos'.",
+								+ "que no sea 'Archivos de Programa', como por ejemplo 'Mis documentos'.\n"
+								+ "Intentaremos resolver este problema en versiones futuras, perdón por las molestias",
 						"Sin permiso para escribir", JOptionPane.ERROR_MESSAGE);
 				e.printStackTrace();
 				System.exit(0);
@@ -121,7 +122,7 @@ public class Main extends JPanel implements WindowListener {
 		}
 
 		BufferedReader in = new BufferedReader(
-				new InputStreamReader(new FileInputStream(basePath + "resbc.txt"), "ISO-8859-1"));
+				new InputStreamReader(new FileInputStream(basePath + "resbc.txt"), "UTF-8"));
 
 		String line = "";
 		WordHandler bh = null;
@@ -309,9 +310,9 @@ public class Main extends JPanel implements WindowListener {
 	public void windowClosing(WindowEvent e) {
 
 		int res = JOptionPane.showConfirmDialog(frame,
-				"Esta acci�n interrumpir� la generaci�n de la base de datos.\n"
+				"Esta acción interrumpirá la generación de la base de datos.\n"
 						+ "El diccionario no puede funcionar sin ella.\n"
-						+ "�Est� seguro de que deseas interrumpir este proceso?",
+						+ "¿Está seguro de que deseas interrumpir este proceso?",
 				"Advertencia", JOptionPane.YES_NO_OPTION, JOptionPane.WARNING_MESSAGE);
 		if (res == JOptionPane.YES_OPTION) {
 			JOptionPane.showMessageDialog(frame,

@@ -43,19 +43,19 @@ public class FrequencyWordHandler implements WordHandler{
 		
 		for (int i = 0; i < chars.length; i++) {
 
-			if (chars[i] == 'á') {
+			if (chars[i] == 'Ã¡') {
 				chars[i]='a';
-			} else if (chars[i] == 'é') {
+			} else if (chars[i] == 'Ã©') {
 				chars[i]='e';
-			} else if (chars[i] == 'í') {
+			} else if (chars[i] == 'Ã­') {
 				chars[i]='i';
-			} else if (chars[i] == 'ó') {
+			} else if (chars[i] == 'Ã³') {
 				chars[i]='o';
-			} else if (chars[i] == 'ú') {
+			} else if (chars[i] == 'Ãº') {
 				chars[i]='u';
-			} else if (chars[i] == 'ü') {
-				chars[i]='ü';
-			} else if (chars[i] == 'ñ') {
+			} else if (chars[i] == 'Ã¼') {
+				chars[i]='Ã¼';
+			} else if (chars[i] == 'Ã±') {
 				chars[i]='n';
 			} 
 

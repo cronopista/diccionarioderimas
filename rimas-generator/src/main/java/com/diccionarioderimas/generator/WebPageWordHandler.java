@@ -71,8 +71,6 @@ public class WebPageWordHandler implements WordHandler {
 
 		count++;
 
-		
-
 	}
 
 	public void save() {
@@ -84,7 +82,7 @@ public class WebPageWordHandler implements WordHandler {
 			String file = (String) keys.nextElement();
 			try {
 				OutputStreamWriter out = new OutputStreamWriter(new FileOutputStream("WDDBB/" + file + ".txt"),
-						Charset.forName("UTF-8").newEncoder());
+						"Cp1252");
 
 				out.append(entries.get(file).toString());
 				out.close();

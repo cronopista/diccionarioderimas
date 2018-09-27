@@ -29,29 +29,29 @@ public class Word {
 	public static Hashtable<Character, Character> vowels = new Hashtable<Character, Character>();
 
 	static {
-		tildes.put(new Character('a'), new Character('á'));
-		tildes.put(new Character('e'), new Character('é'));
-		tildes.put(new Character('i'), new Character('í'));
-		tildes.put(new Character('o'), new Character('ó'));
-		tildes.put(new Character('u'), new Character('ú'));
+		tildes.put(new Character('a'), new Character('Ã¡'));
+		tildes.put(new Character('e'), new Character('Ã©'));
+		tildes.put(new Character('i'), new Character('Ã­'));
+		tildes.put(new Character('o'), new Character('Ã³'));
+		tildes.put(new Character('u'), new Character('Ãº'));
 
-		noTildes.put(new Character('á'), new Character('a'));
-		noTildes.put(new Character('é'), new Character('e'));
-		noTildes.put(new Character('í'), new Character('i'));
-		noTildes.put(new Character('ó'), new Character('o'));
-		noTildes.put(new Character('ú'), new Character('u'));
+		noTildes.put(new Character('Ã¡'), new Character('a'));
+		noTildes.put(new Character('Ã©'), new Character('e'));
+		noTildes.put(new Character('Ã­'), new Character('i'));
+		noTildes.put(new Character('Ã³'), new Character('o'));
+		noTildes.put(new Character('Ãº'), new Character('u'));
 
-		vowels.put(new Character('a'), new Character('á'));
-		vowels.put(new Character('e'), new Character('é'));
-		vowels.put(new Character('i'), new Character('í'));
-		vowels.put(new Character('o'), new Character('ó'));
-		vowels.put(new Character('u'), new Character('ú'));
-		vowels.put(new Character('á'), new Character('á'));
-		vowels.put(new Character('é'), new Character('é'));
-		vowels.put(new Character('í'), new Character('í'));
-		vowels.put(new Character('ó'), new Character('ó'));
-		vowels.put(new Character('ú'), new Character('ú'));
-		vowels.put(new Character('ü'), new Character('ú'));
+		vowels.put(new Character('a'), new Character('Ã¡'));
+		vowels.put(new Character('e'), new Character('Ã©'));
+		vowels.put(new Character('i'), new Character('Ã­'));
+		vowels.put(new Character('o'), new Character('Ã³'));
+		vowels.put(new Character('u'), new Character('Ãº'));
+		vowels.put(new Character('Ã¡'), new Character('Ã¡'));
+		vowels.put(new Character('Ã©'), new Character('Ã©'));
+		vowels.put(new Character('Ã­'), new Character('Ã­'));
+		vowels.put(new Character('Ã³'), new Character('Ã³'));
+		vowels.put(new Character('Ãº'), new Character('Ãº'));
+		vowels.put(new Character('Ã¼'), new Character('Ãº'));
 
 	}
 
@@ -195,8 +195,8 @@ public class Word {
 		StringBuilder res = new StringBuilder();
 		for (int i = 0; i < m.length; i++) {
 			if (m[i] == 'i' || m[i] == 'u') {
-				if ((i < m.length - 1 && (m[i + 1] != 'i' && m[i + 1] != 'u' && m[i + 1] != 'ü'))
-						|| (i > 0 && (m[i - 1] != 'i' && m[i - 1] != 'u' && m[i - 1] != 'ü')))
+				if ((i < m.length - 1 && (m[i + 1] != 'i' && m[i + 1] != 'u' && m[i + 1] != 'Ã¼'))
+						|| (i > 0 && (m[i - 1] != 'i' && m[i - 1] != 'u' && m[i - 1] != 'Ã¼')))
 					res.append(tildes.get(new Character(m[i])));
 				else
 					res.append(m[i]);
@@ -272,7 +272,7 @@ public class Word {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(new Word("retrógado","",null,"retrógado",1).checkEnding( "retr[mnoó]gado"));
+		System.out.println(new Word("retrÃ³gado","",null,"retrÃ³gado",1).checkEnding( "retr[mnoÃ³]gado"));
 	}
 
 }

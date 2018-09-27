@@ -21,12 +21,12 @@
 package com.diccionarioderimas.generator;
 /**
  * Hay muchas concatenaciones de cadenas con +, pero StringBuilder no ganaba tiempo
- * y hac�a el c�digo menos legible.
+ * y hacía el código menos legible.
  * 
  * voseo
- * qu� hacer con todo lo que no se est� conjugando
+ * qué hacer con todo lo que no se está conjugando
  * 
- * @author Eduardo Rodr�guez
+ * @author Eduardo Rodríguez
  *
  */
 public class Verb extends Word {
@@ -84,13 +84,13 @@ public class Verb extends Word {
 			root3 = substituteLast(root3, 'e', "i");
 		}
 		if (hasFlag('h')) {
-			root2 = substituteLast(root2, 'e', "�");
+			root2 = substituteLast(root2, 'e', "í");
 			root3 = substituteLast(root3, 'e', "i");
 		}
 		if (hasFlag('y')) {
-			root2 = substituteFinal(root2, '�', "u");
+			root2 = substituteFinal(root2, 'ü', "u");
 			root2 += "y";
-			root3 = substituteFinal(root3, '�', "u");
+			root3 = substituteFinal(root3, 'ü', "u");
 			root3 += "y";
 		}
 		//System.out.println(root+" "+root2+" "+root3);
@@ -144,16 +144,16 @@ public class Verb extends Word {
 		else
 			result += "imos";
 		if (hasFlag('h'))
-			result = substituteFinal(result, 'i', "�");
+			result = substituteFinal(result, 'i', "í");
 		wh.wordProduced(word, result,frequency,"VIP4");
 		// VOSOTROS
 		result = root;
 		if (conj == FIRST)
-			result += "�is";
+			result += "áis";
 		else if (conj == SECOND)
-			result += "�is";
+			result += "éis";
 		else
-			result += "�s";
+			result += "ís";
 		wh.wordProduced(word, result,frequency,"VIP5");
 		// ELLOS
 		result = root2;
@@ -163,42 +163,42 @@ public class Verb extends Word {
 			result += "en";
 		wh.wordProduced(word, result,frequency,"VIP6");
 
-		// -------------------------------------PRET�RITO
+		// -------------------------------------PRETÉRITO
 		// IMPERFECTO------------------------------------
 		// YO
 		result = root;
 		if (conj == FIRST)
 			result += "aba";
 		else
-			result += "�a";
+			result += "ía";
 		wh.wordProduced(word, result,frequency,"VII1");
 		// TU
 		result = root;
 		if (conj == FIRST)
 			result += "abas";
 		else
-			result += "�as";
+			result += "ías";
 		wh.wordProduced(word, result,frequency,"VII2");
 		// NOSOTROS
 		result = root;
 		if (conj == FIRST)
-			result += "�bamos";
+			result += "ábamos";
 		else
-			result += "�amos";
+			result += "íamos";
 		wh.wordProduced(word, result,frequency,"VII4");
 		// VOSOTROS
 		result = root;
 		if (conj == FIRST)
 			result += "abais";
 		else
-			result += "�ais";
+			result += "íais";
 		wh.wordProduced(word, result,frequency,"VII5");
 		// ELLOS
 		result = root;
 		if (conj == FIRST)
 			result += "aban";
 		else
-			result += "�an";
+			result += "ían";
 		wh.wordProduced(word, result,frequency,"VII6");
 
 		//-------------------------------------FUTURO----------------------------
@@ -206,43 +206,43 @@ public class Verb extends Word {
 		// pasando de los irregulares
 		if (!hasFlag('c')) {
 			// YO
-			result = root + ar + "�";
+			result = root + ar + "é";
 			wh.wordProduced(word, result,frequency,"VIF1");
-			// T�
-			result = root + ar + "�s";
+			// TÚ
+			result = root + ar + "ás";
 			wh.wordProduced(word, result,frequency,"VIF2");
-			// �L
-			result = root + ar + "�";
+			// ÉL
+			result = root + ar + "á";
 			wh.wordProduced(word, result,frequency,"VIF3");
 			// NOSOTROS
 			result = root + ar + "emos";
 			wh.wordProduced(word, result,frequency,"VIF4");
 			// VOSOTROS
-			result = root + ar + "�is";
+			result = root + ar + "éis";
 			wh.wordProduced(word, result,frequency,"VIF5");
 			// ELLOS
-			result = root + ar + "�n";
+			result = root + ar + "án";
 			wh.wordProduced(word, result,frequency,"VIF6");
 
 			//-------------------------------------CONDICIONAL------------------
 			// ------------------
 			// YO
-			result = root + ar + "�a";
+			result = root + ar + "ía";
 			wh.wordProduced(word, result,frequency,"VIC1");
-			// T�
-			result = root + ar + "�as";
+			// TÚ
+			result = root + ar + "ías";
 			wh.wordProduced(word, result,frequency,"VIC2");
-			// �L
-			result = root + ar + "�a";
+			// ÉL
+			result = root + ar + "ía";
 			wh.wordProduced(word, result,frequency,"VIC3");
 			// NOSOTROS
-			result = root + ar + "�amos";
+			result = root + ar + "íamos";
 			wh.wordProduced(word, result,frequency,"VIC4");
 			// VOSOTROS
-			result = root + ar + "�ais";
+			result = root + ar + "íais";
 			wh.wordProduced(word, result,frequency,"VIC5");
 			// ELLOS
-			result = root + ar + "�an";
+			result = root + ar + "ían";
 			wh.wordProduced(word, result,frequency,"VIC6");
 
 		}
@@ -252,9 +252,9 @@ public class Verb extends Word {
 		if (!hasFlag("bcx") ) {
 			// YO
 			if (conj == FIRST)
-				result = root + "�";
+				result = root + "é";
 			else
-				result = root + "�";
+				result = root + "í";
 
 			if (conj == FIRST) {
 				char lc = getChar(result, -2);
@@ -264,7 +264,7 @@ public class Verb extends Word {
 					result = substituteLast(result, 'z', "c");
 			}
 			if(hasFlag('k'))
-				result = substituteFinal(result, "g�", "gu�");
+				result = substituteFinal(result, "gé", "gué");
 			
 			wh.wordProduced(word, result,frequency,"VIX1");
 			// TU
@@ -273,18 +273,18 @@ public class Verb extends Word {
 			else {
 				char lc = getChar(result, -5);
 				if (lc == 'a' || lc == 'e')
-					result = root + "�ste";
+					result = root + "íste";
 				else
 					result = root + "iste";
 			}
 			wh.wordProduced(word, result,frequency,"VIX2");
-			// �L
+			// ÉL
 			if (conj == FIRST || hasFlag("ym") || getChar(root3, -1) == 'i')
-				result = root3 + "�";
+				result = root3 + "ó";
 			else if (hasFlag("d"))
-				result = root3 + "y�";
+				result = root3 + "yó";
 			else
-				result = root3 + "i�";
+				result = root3 + "ió";
 
 			wh.wordProduced(word, result,frequency,"VIX3");
 			// NOSOTROS
@@ -298,7 +298,7 @@ public class Verb extends Word {
 			if (conj == FIRST)
 				result = root + "asteis";
 			else if (lc == 'a' || lc == 'e')
-				result = root + "�steis";
+				result = root + "ísteis";
 			else
 				result = root + "isteis";
 			wh.wordProduced(word, result,frequency,"VIX5");
@@ -328,7 +328,7 @@ public class Verb extends Word {
 			if(hasFlag('z'))
 				result=substituteLast(result, 'c', "zc");	//parecer, parezca
 			if(hasFlag('k'))
-				result=substituteLast(result, 'u', "�");	//aguar, ag�e
+				result=substituteLast(result, 'u', "ü");	//aguar, agüe
 			if (conj == SECOND || conj == THIRD)
 				result = substituteFinal(result, "gua", "ga");	//seguir, siga
 			else{
@@ -350,7 +350,7 @@ public class Verb extends Word {
 			if(hasFlag('z'))
 				result=substituteLast(result, 'c', "zc");	//parecer, parezca
 			if(hasFlag('k'))
-				result=substituteLast(result, 'u', "�");	//aguar, ag�e
+				result=substituteLast(result, 'u', "ü");	//aguar, agüe
 			if (conj == SECOND || conj == THIRD)
 				result = substituteFinal(result, "guas", "gas");	//seguir, siga
 			else{
@@ -372,7 +372,7 @@ public class Verb extends Word {
 			if(hasFlag('z'))
 				result=substituteLast(result, 'c', "zc");	//parecer, parezca
 			if(hasFlag('k'))
-				result=substituteLast(result, 'u', "�");	//aguar, ag�e
+				result=substituteLast(result, 'u', "ü");	//aguar, agüe
 			if (conj == SECOND || conj == THIRD)
 				result = substituteFinal(result, "guamos", "gamos");	//seguir, siga
 			else{
@@ -384,20 +384,20 @@ public class Verb extends Word {
 			wh.wordProduced(word, result,frequency,"VSP4");
 			//VOSOTROS
 			if(conj==FIRST)
-				result=root3+"�is";
+				result=root3+"éis";
 			else
-				result=root3+"�is";
+				result=root3+"áis";
 			
 			if(hasFlag('z'))
 				result=substituteLast(result, 'c', "zc");	//parecer, parezca
 			if(hasFlag('k'))
-				result=substituteLast(result, 'u', "�");	//aguar, ag�e
+				result=substituteLast(result, 'u', "ü");	//aguar, agüe
 			if (conj == SECOND || conj == THIRD)
-				result = substituteFinal(result, "gu�is", "g�is");	//seguir, siga
+				result = substituteFinal(result, "guáis", "gáis");	//seguir, siga
 			else{
-				result = substituteFinal(result, "g�is", "gu�is");	//pagar, pague
-				result = substituteFinal(result, "c�is", "qu�is");	//aparcar, aparque
-				result = substituteFinal(result, "z�is", "c�is");	//rezar, rece
+				result = substituteFinal(result, "géis", "guéis");	//pagar, pague
+				result = substituteFinal(result, "céis", "quéis");	//aparcar, aparque
+				result = substituteFinal(result, "zéis", "céis");	//rezar, rece
 			}
 			wh.wordProduced(word, result,frequency,"VSP5");
 			//ELLOS
@@ -409,7 +409,7 @@ public class Verb extends Word {
 			if(hasFlag('z'))
 				result=substituteLast(result, 'c', "zc");	//parecer, parezca
 			if(hasFlag('k'))
-				result=substituteLast(result, 'u', "�");	//aguar, ag�e
+				result=substituteLast(result, 'u', "ü");	//aguar, agüe
 			if (conj == SECOND || conj == THIRD)
 				result = substituteFinal(result, "guan", "gan");	//seguir, siga
 			else{
@@ -581,8 +581,8 @@ public class Verb extends Word {
 				nroot=root+"ad";
 			else{
 				nroot=root+"id";
-				nroot = substituteFinal(nroot,"aid", "a�d");
-				nroot = substituteFinal(nroot,"eid", "e�d");
+				nroot = substituteFinal(nroot,"aid", "aíd");
+				nroot = substituteFinal(nroot,"eid", "eíd");
 			}
 			
 			wh.wordProduced(word, nroot+"o",frequency,"VPM",2);
@@ -692,11 +692,11 @@ public class Verb extends Word {
 		m = new Verb("romper", "Tp", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
-		//t como enviar env�o  
+		//t como enviar envío  
 		m = new Verb("enviar", "TtR", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
-		//k como averiguar averig�e    
+		//k como averiguar averigüe    
 		m = new Verb("averiguar", "TIk", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
@@ -708,7 +708,7 @@ public class Verb extends Word {
 		m = new Verb("incluir", "Ty", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
-		//l como aislar a�slo, ahuchar ah�cho  
+		//l como aislar aíslo, ahuchar ahúcho  
 		m = new Verb("ahuchar", "Tl", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
@@ -720,8 +720,8 @@ public class Verb extends Word {
 		m = new Verb("leer", "Td", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
-		//h como sonre�r 
-		m = new Verb("sonre�r", "Ih", new FakeWordHandler(),1);
+		//h como sonreír 
+		m = new Verb("sonreír", "Ih", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
 		//e como entender
@@ -744,7 +744,7 @@ public class Verb extends Word {
 		m = new Verb("pedir", "Ti", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");
-		//u como actuar act�o 
+		//u como actuar actúo 
 		m = new Verb("actuar", "TIuR", new FakeWordHandler(),1);
 		m.conjugate();
 		System.out.println("*****************");

@@ -21,7 +21,7 @@
 package com.diccionarioderimas.generator;
 
 /**
- * @author Eduardo Rodríguez
+ * @author Eduardo RodrÃ­guez
  *
  */
 public class FakeWordHandler implements WordHandler {
